@@ -115,7 +115,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark:  Dans cette section vous trouverez quelques conseils pour bien pratiquez la méditation:**
 
->8 conseils pratiques sont présentés ici, afin de vous facilité la pratique au quotidien.
+>8 conseils pratiques sont présentés ici, afin de vous faciliter la pratique au quotidien.
 
 ![alt text](demo/how.jpg "My Meditation Time")
 
