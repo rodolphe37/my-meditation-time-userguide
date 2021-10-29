@@ -94,7 +94,7 @@ Ce message vous invite à installer l'application.
 >
 >![alt text](demo/install3.jpg "My Meditation Time")
 
-### Voilà, l'application est installé sur votre téléphone
+### Voilà, l'application est installée sur votre téléphone
 
 >![alt text](demo/start1.jpg "My Meditation Time")
 
