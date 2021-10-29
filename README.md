@@ -160,7 +160,7 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/session1.jpg "My Meditation Time")
 
->Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran (5mins et forêt dans cette exemple).
+>Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran (5mins et forêt dans cet exemple).
 
 ![alt text](demo/session2.jpg "My Meditation Time")
 
