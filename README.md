@@ -148,6 +148,8 @@ Ce message vous invite à installer l'application.
 
 >Vous pouvez directement entrer la durée perso que vous souhaitez, vous n'aurez pas de possibilité de définir un son par ce biais.
 
+>***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibetain se fait entendre, cela signifie que l'app est prête pour votre séance.
+
 ![alt text](demo/first-session.jpg "My Meditation Time")
 
 >Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de temps, puis cliquez sur le bouton. Vous pourrez définir une durée ensuite (5 mins dans cette exemple).
