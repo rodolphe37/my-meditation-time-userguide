@@ -88,7 +88,7 @@ Ce message vous invite à installer l'application.
 
 >Une fenêtre apparaît... cliquez sur installer!
 >
->Cette action va installer la package de l'application en passant par le store (playStore pour android par exemple)
+>Cette action va installer le package de l'application en passant par le store (playStore pour android par exemple)
 
 >Un message apparaît afin de vous informez que l'installation est en cours :heavy_check_mark:
 >
@@ -132,15 +132,15 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/preset1.jpg "My Meditation Time")
 
->Vous pouvez selectionnez une durée prédéfinie puis cliquez sur le bouton "aller au minuteur".
+>Vous pouvez selectionner une durée prédéfinie puis cliquez sur le bouton "aller au minuteur".
 
 ![alt text](demo/preset2.jpg "My Meditation Time")
 
->Ou bien, vous pouvez selectionnez un son pour vous accompagner durant votre méditation, puis cliquez sur le bouton "aller au minuteur".
+>Ou bien, vous pouvez selectionner un son pour vous accompagner durant votre méditation, puis cliquez sur le bouton "aller au minuteur".
 
 ![alt text](demo/preset3.jpg "My Meditation Time")
 
->Ou encore, selectionnez un son et une durée prédéfinie, puis cliquez sur le bouton "aller au minuteur".
+>Ou encore, selectionner un son et une durée prédéfinie, puis cliquez sur le bouton "aller au minuteur".
 
 ![alt text](demo/preset4.jpg "My Meditation Time")
 
@@ -156,11 +156,11 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/first-session.jpg "My Meditation Time")
 
->Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de temps, puis cliquez sur le bouton. Vous pourrez définir une durée ensuite (5 mins dans cet exemple).
+>Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de durée, puis cliquez sur le bouton. Vous pourrez définir la durée que vous souhaitez ensuite (5 mins dans cet exemple).
 
 ![alt text](demo/session1.jpg "My Meditation Time")
 
->Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran (5mins et forêt dans cet exemple).
+>Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran ("5 mins" et "forêt" dans cet exemple).
 
 ![alt text](demo/session2.jpg "My Meditation Time")
 
@@ -171,13 +171,13 @@ Ce message vous invite à installer l'application.
 
 ## Historique des sessions
 
-**:heavy_exclamation_mark: Historiques des sessions**
+**:heavy_exclamation_mark: Historique des sessions**
 
->Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran.
+>Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran. (il faut au moins une séance pour que le bouton soit apparant)
 
 ![alt text](demo/histo1.jpg "My Meditation Time")
 
->En cliquant sur ce bouton, vous verrez l'historique de toutes vos séances, ordonnées de la plus récente à la plus ancienne (dans cet exemple, il y a trois sessions).
+>En cliquant sur ce bouton, vous verrez l'historique de toutes vos séances, ordonnées de la plus récente à la plus ancienne (dans cet exemple, il y a trois sessions mais il n'y a pas de limite).
 
 ![alt text](demo/histo2.jpg "My Meditation Time")
 
@@ -238,7 +238,7 @@ Je mets presque tout ce que je peux en open-source, et j'essaie de satisfaire to
 
 Toutefois, si vous utilisez ce projet et que vous en êtes satisfaits ou si vous voulez simplement m'encourager à continuer à créer : -.
 
-- Put a star and share the project :rocket:
+- Partagez l'application et parlez en autour de vous :rocket:
 
 Thank you! :heart:
 
