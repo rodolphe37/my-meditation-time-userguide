@@ -67,8 +67,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 **Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[Ici](https://my-meditation-time.netlify.app/)**,
 
 
-
-![alt text](demo/start2.jpg "My Meditation Time")
+>![alt text](demo/start2.jpg "My Meditation Time")
 
 >**:heavy_check_mark: C'est une Progressive Web App (PWA)**
 
