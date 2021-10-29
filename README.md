@@ -159,7 +159,7 @@ Ce message vous invite à installer l'application.
 ![alt text](demo/session2.jpg "My Meditation Time")
 
 
->*** :heavy_exclamation_mark: Lorsque le timer s'arrête, deux retentissements de bol tibetain se font entendre, cela signifie que c'est la fin de votre session.***
+>***:heavy_exclamation_mark: Lorsque le timer s'arrête, deux retentissements de bol tibetain se font entendre, cela signifie que c'est la fin de votre session.***
 
 ---
 
