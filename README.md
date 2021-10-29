@@ -183,7 +183,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Vous pouvez à tout moment supprimer votre historique simplement**
 
->Cliquez sur le bouton rouge présent sur la fenêtre,, attention, cette action est irréversible, vous ne pourez pas revenir en arrière!
+>Cliquez sur le bouton rouge présent sur la fenêtre,, attention, cette action est irréversible, vous ne pourrez pas revenir en arrière!
 
 ![alt text](demo/resetHistory.jpg "My Meditation Time")
 
