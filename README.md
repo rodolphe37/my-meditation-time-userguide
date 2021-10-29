@@ -173,7 +173,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Historique des sessions**
 
->Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran. (il faut au moins une séance pour que le bouton soit apparant)
+>Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran. (il faut au moins une séance pour que le bouton soit apparent)
 
 ![alt text](demo/histo1.jpg "My Meditation Time")
 
