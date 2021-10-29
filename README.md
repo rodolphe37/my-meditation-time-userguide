@@ -173,7 +173,7 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/histo1.jpg "My Meditation Time")
 
->En cliquant sur ce bouton, vous verrez l'historiques de toutes vos séances, ordonnés de la plus récente à la plus ancienne (dans cette exemple, il y a trois sessions).
+>En cliquant sur ce bouton, vous verrez l'historique de toutes vos séances, ordonnées de la plus récente à la plus ancienne (dans cette exemple, il y a trois sessions).
 
 ![alt text](demo/histo2.jpg "My Meditation Time")
 
