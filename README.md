@@ -183,7 +183,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Vous pouvez à tout moment supprimer votre historique simplement**
 
->Cliquez sur le bouton rouge présent sur la fenêtre,, attention, cette action est irréversible, vous ne pourrez pas revenir en arrière!
+>Cliquez sur le bouton rouge présent sur la fenêtre... attention, cette action est irréversible, vous ne pourrez pas revenir en arrière!
 
 ![alt text](demo/resetHistory.jpg "My Meditation Time")
 
@@ -194,7 +194,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Vous pouvez désinstaller cette App quand vous le souhaitez, simplement**
 
->laissez votre doigt sur l'icone de l'app une second, elle se met a danser et un menu contextuel apparaît. cliquez sur Désinst.
+>laissez votre doigt sur l'icone de l'app une second, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
 
 ![alt text](demo/uninstall1.jpg "My Meditation Time")
 
@@ -202,7 +202,7 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/uninstall2.jpg "My Meditation Time")
 
->Une fois ceci fait, une ultime message apparaîtra afin de vous prévenir que l'app à bien été désinstallé.
+>Une fois ceci fait, un ultime message apparaîtra afin de vous prévenir que l'app à bien été désinstallé.
 
 ![alt text](demo/uninstall3.jpg "My Meditation Time")
 
