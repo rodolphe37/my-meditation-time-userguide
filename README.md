@@ -8,7 +8,7 @@
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e40fbd7e-8cab-48c9-beb2-4099ce79bf8e/deploy-status)](https://app.netlify.com/sites/my-meditation-time/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/addc8ba2-e811-42a3-a4f5-3857f0b2199e/deploy-status)](https://app.netlify.com/sites/laughing-poitras-2bd2b0/deploys)
 
 # Guide d'utilisation.
 
