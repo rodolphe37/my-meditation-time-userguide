@@ -8,7 +8,7 @@
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2781095-2a0c-4573-b7f1-6dc426b80dc7/deploy-status)](https://app.netlify.com/sites/trusting-khorana-c46a93/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/873fc5ff-ef48-4cce-9d73-72d57e23b04b/deploy-status)](https://app.netlify.com/sites/nervous-villani-77f3bd/deploys)
 
 # Guide d'utilisation.
 
@@ -97,6 +97,10 @@ Ce message vous invite à installer l'application.
 ### Voilà, l'application est installée sur votre téléphone
 
 >![alt text](demo/start1.jpg "My Meditation Time")
+
+### L'application peut fonctionner en arrière plan
+
+>![alt text](demo/backdrop.jpg "My Meditation Time")
 
 ---
 # Fonctionnalités
