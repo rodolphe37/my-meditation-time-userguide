@@ -156,7 +156,7 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/first-session.jpg "My Meditation Time")
 
->Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de temps, puis cliquez sur le bouton. Vous pourrez définir une durée ensuite (5 mins dans cette exemple).
+>Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de temps, puis cliquez sur le bouton. Vous pourrez définir une durée ensuite (5 mins dans cet exemple).
 
 ![alt text](demo/session1.jpg "My Meditation Time")
 
