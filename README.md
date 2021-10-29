@@ -222,7 +222,7 @@ Compatibilité de l'app avec les navigateurs/téléphones:
 
 # :bust_in_silhouette: Auteur
 
-- Pensé, conçu et développé avec :purple_heart : par Rodolphe Augusto
+- Pensé, conçu et développé avec :purple_heart: par Rodolphe Augusto
 
 ---
 
