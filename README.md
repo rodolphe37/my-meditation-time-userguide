@@ -198,7 +198,7 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Vous pouvez désinstaller cette App quand vous le souhaitez, simplement**
 
->laissez votre doigt sur l'icone de l'app une second, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
+>laissez votre doigt sur l'icone de l'app une seconde environ, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
 
 ![alt text](demo/uninstall1.jpg "My Meditation Time")
 
