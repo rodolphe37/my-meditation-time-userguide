@@ -25,48 +25,48 @@ A simple and intuitive meditation initiation and practice application for adults
 
 ## Quick Links
 
-[Online application](#computer-site-en-ligne)
+[Online application](#computer-online-site)
 
-[App Overview](#apperçu-de-lapp)
+[App Overview](#overview-of-the-app)
 
-  - [Mobile phone](#téléphone-portable)
-  - [Tablet]()
-  - [Computers]()
+  - [Mobile phone](#mobile-phone)
+  - [Tablet](#tablet)
+  - [Computers](#computers)
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
 
-[Install the application](#installer-lapplication)
+[Install the application](#install-the-application)
 
-[Menu For quick access](#menu-pour-un-accès-rapide)
+[Menu For quick access](#menu-for-quick-access)
 
-[Features](#fonctionnalités)
+[Features](#features)
 
-  - [Why?](#pourquoi-)
+  - [Why?](#why)
 
-  - [How?](#comment-)
+  - [How?](#how)
 
-  - [The presets](#les-préréglages)
+  - [The presets](#the-presets)
 
-  - [The session](#la-session)
+  - [The session](#the-presets)
 
-  - [session history](#historique-des-sessions)
+  - [session history](#session-history)
 
-  - [Delete history](#supprimer-lhistorique)
+  - [Delete history](#delete-history)
 
-[Uninstall the application](#désinstaller-lapplication)
+[Uninstall the application](#uninstall-the-application)
 
-[compatibility](#compatibilités)
+[compatibility](#compatibilities)
 
-[Author](#bust_in_silhouette-auteur)
+[Author](#bust_in_silhouette-author)
 
-[A word from the author](#large_blue_diamond-un-mot-de-lauteur)
+[A word from the author](#large_blue_diamond-a-word-from-the-author)
 
-[Support the project](#sparkling_heart-soutenir-le-projet)
+[Support the project](#sparkling_heart-support-the-project)
 
 [License](#scroll-licence)
 
-[My other projects](#mes-autres-projets)
+[My other projects](#my-other-projects)
 
 ---
 
@@ -119,7 +119,7 @@ A simple and intuitive meditation initiation and practice application for adults
 This message prompts you to install the application.
 
 ---
-### une fois ceci fait!
+### once this is done!
 
 >![alt text](demo/install2.jpg "My Meditation Time")
 
@@ -154,7 +154,7 @@ This message prompts you to install the application.
 
 ---
 
-## Comment ?
+## How?
 
 **:heavy_exclamation_mark:  In this section you will find some tips on how to practice meditation:**
 
@@ -164,120 +164,120 @@ This message prompts you to install the application.
 
 ---
 
-## Les préréglages
+## The presets
 
 
-**:heavy_exclamation_mark: Dans cette section nous allons voir les différents préréglages présents**
+**:heavy_exclamation_mark: In this section we will see the different presets present**
 
 ![alt text](demo/preset1.jpg "My Meditation Time")
 
->Vous pouvez selectionner une durée prédéfinie puis cliquez sur le bouton "aller au minuteur".
+>You can select a predefined time and then click on the "go to timer" button.
 
 ![alt text](demo/preset2.jpg "My Meditation Time")
 
->Ou bien, vous pouvez selectionner un son pour vous accompagner durant votre méditation, puis cliquez sur le bouton "aller au minuteur".
+>Alternatively, you can select a sound to accompany you during your meditation, then click on the 'go to timer' button.
 
 ![alt text](demo/preset3.jpg "My Meditation Time")
 
->Ou encore, selectionner un son et une durée prédéfinie, puis cliquez sur le bouton "aller au minuteur".
+>Or select a sound and a preset time, then click on the "go to timer" button.
 
 ![alt text](demo/preset4.jpg "My Meditation Time")
 
 ---
 
-## La session
+## The session
 
-**:heavy_exclamation_mark: Time Tracker : C'est le compteur temps de l'application**
+**:heavy_exclamation_mark: Time Tracker : This is the time counter of the application**
 
->Vous pouvez directement entrer la durée perso que vous souhaitez, vous n'aurez pas de possibilité de définir un son par ce biais.
+>You can directly enter the personal duration you want, you will not have the possibility to define a sound by this way.
 
->***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibetain se fait entendre, cela signifie que l'app est prête pour votre séance.***
+>***:heavy_exclamation_mark:When you enter a number, a Tibetan bowl sound is heard, which means that the app is ready for your session.***
 
 ![alt text](demo/first-session.jpg "My Meditation Time")
 
->Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de durée, puis cliquez sur le bouton. Vous pourrez définir la durée que vous souhaitez ensuite (5 mins dans cet exemple).
+>If you want to set a sound, go to the presets section, select only the sound, not the duration, and then click the button. You will be able to set the duration you want afterwards (5 mins in this example).
 
 ![alt text](demo/session1.jpg "My Meditation Time")
 
->Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran ("5 mins" et "forêt" dans cet exemple).
+>So when you start the timer, you will have a duration and a sound displayed on your screen ("5 mins" and "forest" in this example).
 
 ![alt text](demo/session2.jpg "My Meditation Time")
 
 
->***:heavy_exclamation_mark: Lorsque le timer s'arrête, deux retentissements de bol tibetain se font entendre, cela signifie que c'est la fin de votre session.***
+>***:heavy_exclamation_mark: When the timer stops, you will hear two Tibetan bowl tones, which means that your session is over.***
 
 ---
 
-## Historique des sessions
+## Session history
 
-**:heavy_exclamation_mark: Historique des sessions**
+**:heavy_exclamation_mark: Session history**
 
->Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran. (il faut au moins une séance pour que le bouton soit apparent)
+>Once you have completed your first meditation session, you will have a "history" button that appears on the screen. (it takes at least one session for the button to appear)
 
 ![alt text](demo/histo1.jpg "My Meditation Time")
 
->En cliquant sur ce bouton, vous verrez l'historique de toutes vos séances, ordonnées de la plus récente à la plus ancienne (dans cet exemple, il y a trois sessions mais il n'y a pas de limite).
+>By clicking on this button, you will see the history of all your sessions, ordered from the most recent to the oldest (in this example, there are three sessions but there is no limit).
 
 ![alt text](demo/histo2.jpg "My Meditation Time")
 
 ---
 
-## Supprimer l'historique.
+## Delete history.
 
-**:heavy_exclamation_mark: Vous pouvez à tout moment supprimer votre historique simplement**
+**:heavy_exclamation_mark: You can simply delete your history at any time**
 
->Cliquez sur le bouton rouge présent sur la fenêtre... attention, cette action est irréversible, vous ne pourrez pas revenir en arrière!
+>Click on the red button on the window... be careful, this action is irreversible, you can't go back!
 
 ![alt text](demo/resetHistory.jpg "My Meditation Time")
 
 
 ---
 
-## Désinstaller l'application!
+## Uninstall the application!
 
-**:heavy_exclamation_mark: Vous pouvez désinstaller cette App quand vous le souhaitez, simplement**
+**:heavy_exclamation_mark: You can uninstall this app whenever you want, simply**
 
->laissez votre doigt sur l'icone de l'app une seconde environ, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
+>leave your finger on the app's icon for a second or so, it starts dancing and a pop-up menu appears. click on Uninstall.
 
 ![alt text](demo/uninstall1.jpg "My Meditation Time")
 
->Une fenêtre vous demande alors, si vous souhaitez vraiment supprimer cette application. cliquez sur ok.
+>A window will ask you if you really want to delete this application.
 
 ![alt text](demo/uninstall2.jpg "My Meditation Time")
 
->Une fois ceci fait, un ultime message apparaîtra afin de vous prévenir que l'app à bien été désinstallé.
+>Once this is done, a final message will appear to inform you that the app has been uninstalled.
 
 ![alt text](demo/uninstall3.jpg "My Meditation Time")
 
 
 ---
 
-# compatibilités
+# compatibilities
 
-Compatibilité de l'app avec les navigateurs/téléphones:
+Compatibility of the app with browsers/phones:
 
 ![alt text](demo/compatibility.png "My Meditation Time")
 
 
-# :bust_in_silhouette: Auteur
+# :bust_in_silhouette: Author
 
-- Pensé, conçu et développé avec :purple_heart: par Rodolphe Augusto
+- Conceived, designed and developed with :purple_heart: by Rodolphe Augusto
 
 ---
 
-# :large_blue_diamond: Un mot de l'auteur
+# :large_blue_diamond: A word from the author
 
 Enjoy the World :smirk:
 
 ---
 
-# :sparkling_heart: Soutenir le projet
+# :sparkling_heart: Support the project
 
-Je mets presque tout ce que je peux en open-source, et j'essaie de satisfaire toute personne qui a besoin d'aide pour utiliser ces projets. Évidemment, cela prend du temps. Vous pouvez utiliser ce service gratuitement.
+I make almost everything I can open-source, and I try to accommodate anyone who needs help using these projects. Of course, this takes time. You can use this service for free.
 
-Toutefois, si vous utilisez ce projet et que vous en êtes satisfaits ou si vous voulez simplement m'encourager à continuer à créer : -.
+However, if you use this project and are satisfied with it, or if you just want to encourage me to continue creating : -.
 
-- Partagez l'application et parlez en autour de vous :rocket:
+- Share the application and tell others about it :rocket:
 
 Thank you! :heart:
 
@@ -289,7 +289,7 @@ MIT
 
 ---
 
-# Mes autres projets:
+# My other projects:
 
 >### My Simple Tutorial Creator
 >https://github.com/rodolphe37/my-simple-tutorial-creator

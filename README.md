@@ -31,8 +31,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 [Apperçu de l'App](#apperçu-de-lapp)
 
   - [Téléphone Portable](#téléphone-portable)
-  - [Tablette]()
-  - [Ordinateurs]()
+  - [Tablette](#tablette)
+  - [Ordinateurs](#ordinateurs)
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
