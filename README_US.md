@@ -9,7 +9,7 @@
 # User guide - English version - 🇬🇧
 
 
-Pour la version Française, cliquez [ICI 🇫🇷](./README.md)
+🇫🇷 - Pour la version Française, cliquez [ICI](./README.md)
 
 ---
 
