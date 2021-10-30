@@ -17,80 +17,80 @@
 
 
 
-Une Application d'initiation et de pratique de la méditation simple et intuitive, pour adultes et enfants.
+A simple and intuitive meditation initiation and practice application for adults and children.
 
-### :bookmark: Avec cette application vous pouvez méditer en toute simplicité, il y a différents préréglages (durée ou/et son d'ambiance) disponibles.
+### :bookmark: With this application you can meditate in all simplicity, there are different presets (duration or/and ambient sound) available.
 
 
 
 ## Quick Links
 
-[Application en ligne](#computer-site-en-ligne)
+[Online application](#computer-site-en-ligne)
 
-[Apperçu de l'App](#apperçu-de-lapp)
+[App Overview](#apperçu-de-lapp)
 
-  - [Téléphone Portable](#téléphone-portable)
-  - [Tablette]()
-  - [Ordinateurs]()
+  - [Mobile phone](#téléphone-portable)
+  - [Tablet]()
+  - [Computers]()
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
 
-[Installer l'application](#installer-lapplication)
+[Install the application](#installer-lapplication)
 
-[Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
+[Menu For quick access](#menu-pour-un-accès-rapide)
 
-[Fonctionnalités](#fonctionnalités)
+[Features](#fonctionnalités)
 
-  - [Pourquoi ?](#pourquoi-)
+  - [Why?](#pourquoi-)
 
-  - [Comment ?](#comment-)
+  - [How?](#comment-)
 
-  - [Les préréglages](#les-préréglages)
+  - [The presets](#les-préréglages)
 
-  - [La session](#la-session)
+  - [The session](#la-session)
 
-  - [historique des sessions](#historique-des-sessions)
+  - [session history](#historique-des-sessions)
 
-  - [Supprimer l'historique](#supprimer-lhistorique)
+  - [Delete history](#supprimer-lhistorique)
 
-[Désinstaller l'application](#désinstaller-lapplication)
+[Uninstall the application](#désinstaller-lapplication)
 
-[compatibilité](#compatibilités)
+[compatibility](#compatibilités)
 
-[Auteur](#bust_in_silhouette-auteur)
+[Author](#bust_in_silhouette-auteur)
 
-[Un mot de l'auteur](#large_blue_diamond-un-mot-de-lauteur)
+[A word from the author](#large_blue_diamond-un-mot-de-lauteur)
 
-[Soutenir le projet](#sparkling_heart-soutenir-le-projet)
+[Support the project](#sparkling_heart-soutenir-le-projet)
 
-[Licence](#scroll-licence)
+[License](#scroll-licence)
 
-[Mes autres projets](#mes-autres-projets)
-
----
-
-
-# :computer: site en ligne
-
-
-**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.netlify.app/)**,
+[My other projects](#mes-autres-projets)
 
 ---
 
-# Apperçu de l'App.
 
->**:heavy_check_mark: C'est une Progressive Web App (PWA)**
+# :computer: online site
 
-## Téléphone Portable:
+
+**You can use the My Meditation Time application for FREE** **[HERE](https://my-meditation-time-us-version.netlify.app/)**,
+
+---
+
+# Overview of the App.
+
+>**:heavy_check_mark: It is a Progressive Web App (PWA)**
+
+## Mobile phone:
 
 >![alt text](demo/start2.jpg "My Meditation Time")
 
-## Tablette:
+## Tablet:
 
 >![alt text](demo/tablette/myMeditationTime.png "My Meditation Time")
 
-## Ordinateurs:
+## Computers:
 
 ### Windows:
 
@@ -102,53 +102,53 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 ### Linux:
 
-**(Ubuntu dans cette exemple)**
+**(Ubuntu in this example)**
 
 >![alt text](demo/desktop/linux/started.png "My Meditation Time")
 
 ---
 
-# Installer l'application!
+# Install the application!
 
-:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.
+:heavy_check_mark: You can simply install the application on any Windows, Mac or Linux mobile phone or computer.
 
 >![alt text](demo/install1.jpg "My Meditation Time")
 
 
->Cliquez sur le bandeau qui apparaît en bas de votre écran de téléphone!
-Ce message vous invite à installer l'application.
+>Click on the banner that appears at the bottom of your phone screen!
+This message prompts you to install the application.
 
 ---
 ### une fois ceci fait!
 
 >![alt text](demo/install2.jpg "My Meditation Time")
 
->Une fenêtre apparaît... cliquez sur installer!
+>A window appears... click on install!
 >
->Cette action va installer le package de l'application en passant par le store (playStore pour android par exemple)
+>This action will install the application package through the store (playStore for android for example)
 
->Un message apparaît afin de vous informez que l'installation est en cours :heavy_check_mark:
+>A message appears to inform you that the installation is in progress :heavy_check_mark:
 >
 >![alt text](demo/install3.jpg "My Meditation Time")
 
-### Voilà, l'application est installée sur votre téléphone
+### The application is now installed on your phone
 
 >![alt text](demo/start1.jpg "My Meditation Time")
 
-## Menu Pour un accès rapide.
+## Menu For quick access.
 
 >![alt text](demo/menu.jpg "My Meditation Time")
 
 
 ---
 
-# Fonctionnalités
+# Features
 
-## Pourquoi ?
+## Why?
 
-**:heavy_exclamation_mark: Dans cette section vous trouverez quelques bienfaits de la méditation:**
+**:heavy_exclamation_mark: In this section you will find some benefits of meditation:**
 
->13 bienfaits sont enumérés, afin de mieux comprendre ce que fait la méditation sur le corps et l'esprit.
+>13 benefits are listed, to better understand what meditation does to the body and mind.
 
 ![alt text](demo/why.jpg "My Meditation Time")
 
@@ -156,9 +156,9 @@ Ce message vous invite à installer l'application.
 
 ## Comment ?
 
-**:heavy_exclamation_mark:  Dans cette section vous trouverez quelques conseils pour bien pratiquez la méditation:**
+**:heavy_exclamation_mark:  In this section you will find some tips on how to practice meditation:**
 
->8 conseils pratiques sont présentés ici, afin de vous faciliter la pratique au quotidien.
+>8 practical tips are presented here, in order to facilitate your daily practice.
 
 ![alt text](demo/how.jpg "My Meditation Time")
 
