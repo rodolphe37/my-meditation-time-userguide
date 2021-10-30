@@ -36,6 +36,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Installer l'application](#installer-lapplication)
 
+[Menu Pour un accès rapide]()
+
 [Fonctionnalités](#fonctionnalités)
 
   - [Pourquoi ?](#pourquoi-)
@@ -136,6 +138,13 @@ Ce message vous invite à installer l'application.
 >![alt text](demo/backdrop.jpg "My Meditation Time")
 
 ---
+
+# Menu Pour un accès rapide.
+
+>![alt text](demo/menu.jpg "My Meditation Time")
+
+---
+
 # Fonctionnalités
 
 ## Pourquoi ?
