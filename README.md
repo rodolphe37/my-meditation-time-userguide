@@ -5,7 +5,7 @@
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46b1d923-b2d3-4dde-8911-8c2a895dad5a/deploy-status)](https://app.netlify.com/sites/peaceful-bardeen-10836f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04f9dc99-31bf-4d1f-8d66-c72c1df9e0e5/deploy-status)](https://app.netlify.com/sites/distracted-lamport-0d018f/deploys)
 
 # Guide d'utilisation.
 
@@ -24,6 +24,15 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 ## Quick Links
 
 [Application en ligne](#computer-site-en-ligne)
+
+[Apperçu de l'App](#apperçu-de-lapp)
+
+  - [Téléphone Portable](#téléphone-portable)
+  - [Tablette]()
+  - [Ordinateurs]()
+    - [Windows](#windows)
+    - [Mac](#mac)
+    - [Linux](#linux)
 
 [Installer l'application](#installer-lapplication)
 
@@ -61,12 +70,39 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 # :computer: site en ligne
 
 
-**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[Ici](https://my-meditation-time.netlify.app/)**,
+**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.netlify.app/)**,
 
+---
+
+# Apperçu de l'App.
+
+>**:heavy_check_mark: C'est une Progressive Web App (PWA)**
+
+## Téléphone Portable:
 
 >![alt text](demo/start2.jpg "My Meditation Time")
 
->**:heavy_check_mark: C'est une Progressive Web App (PWA)**
+## Tablette:
+
+>![alt text](demo/tablette/myMeditationTime.png "My Meditation Time")
+
+## Ordinateurs:
+
+### Windows:
+
+>![alt text](demo/desktop/windows/started.png "My Meditation Time")
+
+### Mac:
+
+>![alt text](demo/desktop/mac/started.png "My Meditation Time")
+
+### Linux:
+
+**(Ubuntu dans cette exemple)**
+
+>![alt text](demo/desktop/linux/started.png "My Meditation Time")
+
+---
 
 # Installer l'application!
 
