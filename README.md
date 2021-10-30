@@ -133,15 +133,10 @@ Ce message vous invite à installer l'application.
 
 >![alt text](demo/start1.jpg "My Meditation Time")
 
-### L'application peut fonctionner en arrière plan
-
->![alt text](demo/backdrop.jpg "My Meditation Time")
-
----
-
-# Menu Pour un accès rapide.
+## Menu Pour un accès rapide.
 
 >![alt text](demo/menu.jpg "My Meditation Time")
+
 
 ---
 
