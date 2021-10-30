@@ -192,7 +192,7 @@ Ce message vous invite à installer l'application.
 
 >Vous pouvez directement entrer la durée perso que vous souhaitez, vous n'aurez pas de possibilité de définir un son par ce biais.
 
->***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibetain se fait entendre, cela signifie que l'app est prête pour votre séance.***
+>***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibétain se fait entendre, cela signifie que l'app est prête pour votre séance.***
 
 ![alt text](demo/first-session.jpg "My Meditation Time")
 
@@ -205,7 +205,7 @@ Ce message vous invite à installer l'application.
 ![alt text](demo/session2.jpg "My Meditation Time")
 
 
->***:heavy_exclamation_mark: Lorsque le timer s'arrête, deux retentissements de bol tibetain se font entendre, cela signifie que c'est la fin de votre session.***
+>***:heavy_exclamation_mark: Lorsque le timer s'arrête, de nouveau un retentissement de bol tibétain se fait entendre, cela signifie que c'est la fin de votre session.***
 
 ---
 

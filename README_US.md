@@ -204,7 +204,7 @@ This message prompts you to install the application.
 ![alt text](demo/session2.jpg "My Meditation Time")
 
 
->***:heavy_exclamation_mark: When the timer stops, you will hear two Tibetan bowl tones, which means that your session is over.***
+>***:heavy_exclamation_mark: When the timer stops, you will hear one another Tibetan bowl tone, which means that your session is over.***
 
 ---
 
