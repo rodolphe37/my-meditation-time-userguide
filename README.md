@@ -2,13 +2,10 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-meditation-time/graphs/commit-activity)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-meditation-time/)](https://github.com/rodolphe37/my-meditation-time/issues)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-meditation-time)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rodolphe37/my-meditation-time/main)
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e7182d7b-25ef-4539-ab27-9e0bd8e440a5/deploy-status)](https://app.netlify.com/sites/agitated-mccarthy-264255/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46b1d923-b2d3-4dde-8911-8c2a895dad5a/deploy-status)](https://app.netlify.com/sites/peaceful-bardeen-10836f/deploys)
 
 # Guide d'utilisation.
 
