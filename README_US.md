@@ -84,7 +84,7 @@ A simple and intuitive meditation initiation and practice application for adults
 
 ## Mobile phone:
 
->![alt text](demo/start2.jpg "My Meditation Time")
+>![alt text](demo/new/eng/start2.jpg "My Meditation Time")
 
 ## Tablet:
 
@@ -137,7 +137,7 @@ This message prompts you to install the application.
 
 ## Menu For quick access.
 
->![alt text](demo/menu.jpg "My Meditation Time")
+>![alt text](demo/new/eng/menu.jpg "My Meditation Time")
 
 
 ---
@@ -150,7 +150,7 @@ This message prompts you to install the application.
 
 >13 benefits are listed, to better understand what meditation does to the body and mind.
 
-![alt text](demo/why.jpg "My Meditation Time")
+![alt text](demo/new/eng/why.jpg "My Meditation Time")
 
 ---
 
@@ -160,7 +160,7 @@ This message prompts you to install the application.
 
 >8 practical tips are presented here, in order to facilitate your daily practice.
 
-![alt text](demo/how.jpg "My Meditation Time")
+![alt text](demo/new/eng/how.jpg "My Meditation Time")
 
 ---
 
@@ -169,19 +169,19 @@ This message prompts you to install the application.
 
 **:heavy_exclamation_mark: In this section we will see the different presets present**
 
-![alt text](demo/preset1.jpg "My Meditation Time")
+![alt text](demo/new/eng/preset1.jpg "My Meditation Time")
 
 >You can select a predefined time and then click on the "go to timer" button.
 
-![alt text](demo/preset2.jpg "My Meditation Time")
+![alt text](demo/new/eng/preset2.jpg "My Meditation Time")
 
 >Alternatively, you can select a sound to accompany you during your meditation, then click on the 'go to timer' button.
 
-![alt text](demo/preset3.jpg "My Meditation Time")
+![alt text](demo/new/eng/preset3.jpg "My Meditation Time")
 
 >Or select a sound and a preset time, then click on the "go to timer" button.
 
-![alt text](demo/preset4.jpg "My Meditation Time")
+![alt text](demo/new/eng/preset4.jpg "My Meditation Time")
 
 ---
 
@@ -193,15 +193,15 @@ This message prompts you to install the application.
 
 >***:heavy_exclamation_mark:When you enter a number, a Tibetan bowl sound is heard, which means that the app is ready for your session.***
 
-![alt text](demo/first-session.jpg "My Meditation Time")
+![alt text](demo/new/eng/first-session.jpg "My Meditation Time")
 
->If you want to set a sound, go to the presets section, select only the sound, not the duration, and then click the button. You will be able to set the duration you want afterwards (5 mins in this example).
+>If you want to set a sound, go to the presets section, select only the sound, not the duration, and then click the button. You will be able to set the duration you want afterwards (12 mins in this example).
 
-![alt text](demo/session1.jpg "My Meditation Time")
+![alt text](demo/new/eng/session1.jpg "My Meditation Time")
 
->So when you start the timer, you will have a duration and a sound displayed on your screen ("5 mins" and "forest" in this example).
+>So when you start the timer, you will have a duration and a sound displayed on your screen ("12 mins" and "forest" in this example).
 
-![alt text](demo/session2.jpg "My Meditation Time")
+![alt text](demo/new/eng/session2.jpg "My Meditation Time")
 
 
 >***:heavy_exclamation_mark: When the timer stops, you will hear one another Tibetan bowl tone, which means that your session is over.***
@@ -214,11 +214,11 @@ This message prompts you to install the application.
 
 >Once you have completed your first meditation session, you will have a "history" button that appears on the screen. (it takes at least one session for the button to appear)
 
-![alt text](demo/histo1.jpg "My Meditation Time")
+![alt text](demo/new/eng/histo1.jpg "My Meditation Time")
 
->By clicking on this button, you will see the history of all your sessions, ordered from the most recent to the oldest (in this example, there are three sessions but there is no limit).
+>By clicking on this button, you will see the history of all your sessions, ordered from the most recent to the oldest (in this example, there are only one session but there is no limit).
 
-![alt text](demo/histo2.jpg "My Meditation Time")
+![alt text](demo/new/eng/histo2.jpg "My Meditation Time")
 
 ---
 
@@ -228,7 +228,22 @@ This message prompts you to install the application.
 
 >Click on the red button on the window... be careful, this action is irreversible, you can't go back!
 
-![alt text](demo/resetHistory.jpg "My Meditation Time")
+![alt text](demo/new/eng/resetHistory.jpg "My Meditation Time")
+
+
+
+## Share the application with your friends
+
+**You can quickly and easily share this application, here's how!**
+
+![alt text](demo/new/eng/share1.png "My Meditation Time")
+
+> Click on the "i" button at the bottom right of your screen...
+> then click on the "share" icon!
+
+![alt text](demo/new/eng/share2.png "My Meditation Time")
+
+> This will bring up a QrCode, which can be scanned to go to the web application address.
 
 
 ---
