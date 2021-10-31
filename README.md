@@ -55,6 +55,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
   - [Supprimer l'historique](#supprimer-lhistorique)
 
+  - [Partagez l'application avec vos ami(e)s](#partagez-lapplication-avec-vos-amies)
+
 [Désinstaller l'application](#désinstaller-lapplication)
 
 [compatibilité](#compatibilités)
@@ -230,6 +232,19 @@ Ce message vous invite à installer l'application.
 >Cliquez sur le bouton rouge présent sur la fenêtre... attention, cette action est irréversible, vous ne pourrez pas revenir en arrière!
 
 ![alt text](demo/resetHistory.jpg "My Meditation Time")
+
+## Partagez l'application avec vos ami(e)s
+
+**Vous pouvez rapidement et facilement partager cette application, voici comment faire !**
+
+![alt text](demo/new/share1.png "My Meditation Time")
+
+> Cliquez sur le bouton "i" en bas à droite de votre écran...
+> puis cliquez sur l'icone "partager"!
+
+![alt text](demo/new/share2.png "My Meditation Time")
+
+> Cela fera apparaître un QrCode, qu'il suffit de scanner pour se rendre à l'adresse de l'application web.
 
 
 ---
