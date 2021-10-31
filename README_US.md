@@ -54,6 +54,8 @@ A simple and intuitive meditation initiation and practice application for adults
 
   - [Delete history](#delete-history)
 
+  - [Share the application with your friends](#share-the-application-with-your-friends)
+
 [Uninstall the application](#uninstall-the-application)
 
 [compatibility](#compatibilities)
