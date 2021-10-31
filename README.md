@@ -4,7 +4,7 @@
 <img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d22a458-473a-4b48-b25c-e241d011f0b2/deploy-status)](https://app.netlify.com/sites/elegant-bell-630df5/deploys)
+
 
 # Guide d'utilisation - Version Française - 🇫🇷
 
@@ -85,7 +85,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 ## Téléphone Portable:
 
->![alt text](demo/start2.jpg "My Meditation Time")
+>![alt text](demo/new/start2.jpg "My Meditation Time")
 
 ## Tablette:
 
@@ -170,19 +170,19 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Dans cette section nous allons voir les différents préréglages présents**
 
-![alt text](demo/preset1.jpg "My Meditation Time")
+![alt text](demo/new/preset1.jpg "My Meditation Time")
 
 >Vous pouvez selectionner une durée prédéfinie puis cliquez sur le bouton "aller au minuteur".
 
-![alt text](demo/preset2.jpg "My Meditation Time")
+![alt text](demo/new/preset2.jpg "My Meditation Time")
 
 >Ou bien, vous pouvez selectionner un son pour vous accompagner durant votre méditation, puis cliquez sur le bouton "aller au minuteur".
 
-![alt text](demo/preset3.jpg "My Meditation Time")
+![alt text](demo/new/preset3.jpg "My Meditation Time")
 
 >Ou encore, selectionner un son et une durée prédéfinie, puis cliquez sur le bouton "aller au minuteur".
 
-![alt text](demo/preset4.jpg "My Meditation Time")
+![alt text](demo/new/preset4.jpg "My Meditation Time")
 
 ---
 
@@ -194,15 +194,15 @@ Ce message vous invite à installer l'application.
 
 >***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibétain se fait entendre, cela signifie que l'app est prête pour votre séance.***
 
-![alt text](demo/first-session.jpg "My Meditation Time")
+![alt text](demo/new/first-session.jpg "My Meditation Time")
 
->Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de durée, puis cliquez sur le bouton. Vous pourrez définir la durée que vous souhaitez ensuite (5 mins dans cet exemple).
+>Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de durée, puis cliquez sur le bouton "Aller au miniteur". Vous pourrez définir la durée que vous souhaitez ensuite (12 mins dans cet exemple).
 
-![alt text](demo/session1.jpg "My Meditation Time")
+![alt text](demo/new/session1.jpg "My Meditation Time")
 
->Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran ("5 mins" et "forêt" dans cet exemple).
+>Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran ("12 mins" et j'ai choisi, au préalable,"forêt" dans cet exemple).
 
-![alt text](demo/session2.jpg "My Meditation Time")
+![alt text](demo/new/session2.jpg "My Meditation Time")
 
 
 >***:heavy_exclamation_mark: Lorsque le timer s'arrête, de nouveau un retentissement de bol tibétain se fait entendre, cela signifie que c'est la fin de votre session.***
@@ -215,11 +215,11 @@ Ce message vous invite à installer l'application.
 
 >Une fois votre première séance de méditation effectuée, vous avez un bouton "historique" qui apparaît à l'écran. (il faut au moins une séance pour que le bouton soit apparent)
 
-![alt text](demo/histo1.jpg "My Meditation Time")
+![alt text](demo/new/histo1.jpg "My Meditation Time")
 
 >En cliquant sur ce bouton, vous verrez l'historique de toutes vos séances, ordonnées de la plus récente à la plus ancienne (dans cet exemple, il y a trois sessions mais il n'y a pas de limite).
 
-![alt text](demo/histo2.jpg "My Meditation Time")
+![alt text](demo/new/histo2.jpg "My Meditation Time")
 
 ---
 
