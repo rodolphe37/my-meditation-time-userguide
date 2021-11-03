@@ -178,7 +178,7 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 15 Sons environnementaux sont disponibles, comme par exemple, la plage, le désert, la forêt, etc...**
->:heavy_exclamation_mark: Tous ces sons sont parfait pour travailler la concentration, la visualisation et la respiration... Les trois pillés de votre apprentissage pour les débutants, ou une belle balade mentale pour les plus initiés!
+>:heavy_exclamation_mark: Tous ces sons sont parfaits pour travailler la concentration, la visualisation et la respiration... Les trois piliers de votre apprentissage pour les débutants, ou une belle promenade mentale pour les plus initiés !
 
 ---
 
@@ -198,7 +198,7 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 mantras musicaux en sanskrit sont ajoutés, comme par exemple, om namah shivaya, dhyan mantra, harekrishna flûte, etc...**
->:heavy_exclamation_mark: Les Mantras sont bien connus pour avoir des vertues pour le corps et l'esprit!
+>:heavy_exclamation_mark: Les mantras sont bien connus pour avoir des vertus pour le corps et l'esprit !
 
 ---
 
@@ -218,7 +218,7 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 Sons alignés sur une fréquence sont ajoutés, comme par exemple, 174Hz, 285Hz, 396Hz, etc...**
->:heavy_exclamation_mark: Toutes ces mélodies on des vertues pour le corps et l'esprit (Chaque vertue est affichée dans une bulle d'information lorse que l'on clique sur un son)
+>:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
 
 ---
 
@@ -236,7 +236,7 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 nouveaux Sons alignés sur une fréquence sont ajoutés, comme par exemple, 714Hz, 852Hz, 963Hz, etc...**
->:heavy_exclamation_mark: Toutes ces mélodies on des vertues pour le corps et l'esprit (Chaque vertue est affichée dans une bulle d'information lorse que l'on clique sur un son)
+>:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
 
 
 ---
