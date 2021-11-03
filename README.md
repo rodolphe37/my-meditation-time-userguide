@@ -158,7 +158,7 @@ Ce message vous invite à installer l'application.
 
 ## Plusieurs Niveaux.
 
->***Il y a 4 niveaux dans l'applications,***
+>***Il y a 4 niveaux dans l'application***
 >
 >Chaque niveau fait légèrement varier l'apparence de l'application et fait apparaître des sons supplémentaires dans la section présélection!
 
