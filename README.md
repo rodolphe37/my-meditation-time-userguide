@@ -156,7 +156,7 @@ Ce message vous invite à installer l'application.
 
 ---
 
-## Plusieurs Niveaux.
+# Plusieurs Niveaux.
 
 >***Il y a 4 niveaux dans l'application***
 >
@@ -164,15 +164,23 @@ Ce message vous invite à installer l'application.
 
 >![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
 
+**Cette fenêtre est accessible en cliquant sur le badge, en haut à gauche sur votre écran**
+
 ---
 
-### Apparence selon le niveau:
+## Apparence selon le niveau:
 
-#### Débutant
+### Débutant
 
->**La couleur bleue pour le niveau Débutant!**
+>**La couleur bleue pour le niveau Débutant! :heavy_check_mark:**
 
 >![debutant](demo/levels/1-debutant.jpg)
+---
+
+**15 Sons environnementaux sont disponibles, comme par exemple, la plage, le désert, la forêt, etc...**
+>:heavy_exclamation_mark: Tous ces sons sont parfait pour travailler la concentration, la visualisation et la respiration... Les trois pillés de votre apprentissage pour les débutants, ou une belle balade mentale pour les plus initiés!
+
+---
 
 
 >**La fenêtre qui vous informent du changement de niveau**
@@ -181,11 +189,18 @@ Ce message vous invite à installer l'application.
 
 
 
-#### Intermédiaire
+### Intermédiaire
 
->**La couleur violet pour le niveau Intermédiaire!**
+>**La couleur violet pour le niveau Intermédiaire! :heavy_check_mark:**
 
 >![debutant](demo/levels/3-intermediaire.jpg)
+
+---
+
+**9 mantras musicaux en sanskrit sont ajoutés, comme par exemple, om namah shivaya, dhyan mantra, harekrishna flûte, etc...**
+>:heavy_exclamation_mark: Les Mantras sont bien connus pour avoir des vertues pour le corps et l'esprit!
+
+---
 
 
 >**La fenêtre qui vous informent du changement de niveau**
@@ -194,11 +209,18 @@ Ce message vous invite à installer l'application.
 
 
 
-#### Confirmé
+### Confirmé
 
->**La couleur rouge pour le niveau Confirmé!**
+>**La couleur rouge pour le niveau Confirmé! :heavy_check_mark:**
 
 >![debutant](demo/levels/5-confirmed.jpg)
+
+---
+
+**9 Sons alignés sur une fréquence sont ajoutés, comme par exemple, 174Hz, 285Hz, 396Hz, etc...**
+>:heavy_exclamation_mark: Toutes ces mélodies on des vertues pour le corps et l'esprit (Chaque vertue est affichée dans une bulle d'information lorse que l'on clique sur un son)
+
+---
 
 >**La fenêtre qui vous informent du changement de niveau**
 
@@ -207,9 +229,15 @@ Ce message vous invite à installer l'application.
 
 #### Expert
 
->**La couleur noir pour le niveau Expert!**
+>**La couleur noir pour le niveau Expert! :heavy_check_mark:**
 
 >![debutant](demo/levels/7-expert.jpg)
+
+---
+
+**9 nouveaux Sons alignés sur une fréquence sont ajoutés, comme par exemple, 714Hz, 852Hz, 963Hz, etc...**
+>:heavy_exclamation_mark: Toutes ces mélodies on des vertues pour le corps et l'esprit (Chaque vertue est affichée dans une bulle d'information lorse que l'on clique sur un son)
+
 
 ---
 
