@@ -42,6 +42,12 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
+[Plusieurs Niveaux](#plusieurs-niveaux)
+  -[Débutant](#débutant)
+  -[Intermédiaire](#intermédiaire)
+  -[Confirmé](#confirmé)
+  -[Expert](#expert)
+
 [Fonctionnalités](#fonctionnalités)
 
   - [Pourquoi ?](#pourquoi-)
@@ -143,6 +149,64 @@ Ce message vous invite à installer l'application.
 
 >![alt text](demo/menu.jpg "My Meditation Time")
 
+
+---
+
+## Plusieurs Niveaux.
+
+>***Il y a 4 niveaux dans l'applications,***
+>
+>Chaque niveau fait légèrement varier l'apparence de l'application et fait apparaître des sons supplémentaires dans la section présélection!
+
+>![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
+
+---
+
+### Apparence selon le niveau:
+
+#### Débutant
+
+>**La couleur bleue pour le niveau Débutant!**
+
+>![debutant](demo/levels/1-debutant.jpg)
+
+
+>**La fenêtre qui vous informent du changement de niveau**
+
+>![debutant](demo/levels/2-new-level1.jpg)
+
+---
+
+#### Intermédiaire
+
+>**La couleur violet pour le niveau Intermédiaire!**
+
+>![debutant](demo/levels/3-intermediaire.jpg)
+
+
+>**La fenêtre qui vous informent du changement de niveau**
+
+>![debutant](demo/levels/4-new-level2.jpg)
+
+---
+
+#### Confirmé
+
+>**La couleur rouge pour le niveau Confirmé!**
+
+>![debutant](demo/levels/5-confirmed.jpg)
+
+>**La fenêtre qui vous informent du changement de niveau**
+
+>![debutant](demo/levels/6-new-level3.jpg)
+
+---
+
+#### Expert
+
+>**La couleur noir pour le niveau Expert!**
+
+>![debutant](demo/levels/7-expert.jpg)
 
 ---
 
