@@ -164,7 +164,7 @@ Ce message vous invite à installer l'application.
 
 >![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
 
-**Cette fenêtre est accessible en cliquant sur le badge, en haut à gauche sur votre écran**
+**Cette fenêtre est accessible en cliquant sur le badge, en haut à gauche sur votre écran (il faut avoir fait au moins une session pour avoir le badge débutant)**
 
 ---
 
