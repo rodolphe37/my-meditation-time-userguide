@@ -160,7 +160,7 @@ Ce message vous invite à installer l'application.
 
 >***Il y a 4 niveaux dans l'application***
 >
->Chaque niveau fait légèrement varier l'apparence de l'application et fait apparaître des sons supplémentaires dans la section présélection!
+>Chaque niveau fait légèrement varier l'apparence de l'application et fait apparaître des sons supplémentaires dans la section préréglages!
 
 >![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
 
