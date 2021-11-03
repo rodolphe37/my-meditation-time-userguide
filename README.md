@@ -179,7 +179,7 @@ Ce message vous invite à installer l'application.
 
 >![debutant](demo/levels/2-new-level1.jpg)
 
----
+
 
 #### Intermédiaire
 
@@ -192,7 +192,7 @@ Ce message vous invite à installer l'application.
 
 >![debutant](demo/levels/4-new-level2.jpg)
 
----
+
 
 #### Confirmé
 
@@ -204,7 +204,6 @@ Ce message vous invite à installer l'application.
 
 >![debutant](demo/levels/6-new-level3.jpg)
 
----
 
 #### Expert
 
