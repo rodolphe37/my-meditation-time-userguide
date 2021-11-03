@@ -43,10 +43,14 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
 [Plusieurs Niveaux](#plusieurs-niveaux)
-  -[Débutant](#débutant)
-  -[Intermédiaire](#intermédiaire)
-  -[Confirmé](#confirmé)
-  -[Expert](#expert)
+
+  - [Débutant](#débutant)
+
+  - [Intermédiaire](#intermédiaire)
+
+  - [Confirmé](#confirmé)
+
+  - [Expert](#expert)
 
 [Fonctionnalités](#fonctionnalités)
 
