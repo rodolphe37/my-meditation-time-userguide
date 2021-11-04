@@ -1,5 +1,5 @@
 <head>
- <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/assets/favicon.ico" >
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" >
 </head>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-meditation-time-userguide/blob/main/LICENSE)
