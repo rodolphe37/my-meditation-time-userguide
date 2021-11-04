@@ -3,7 +3,7 @@ plugins:
 
 theme: jekyll-theme-cayman
 
-favicon: favicon.ico
+favicon: assets/favicon.ico
 
 use_logo: true
 
