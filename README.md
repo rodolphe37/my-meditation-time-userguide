@@ -96,35 +96,35 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 ## Téléphone Portable:
 
->![alt text](demo/new/start2.jpg "My Meditation Time")
+![alt text](demo/new/start2.jpg "My Meditation Time")
 
 ## Tablette:
 
->![alt text](demo/tablette/myMeditationTime.png "My Meditation Time")
+![alt text](demo/tablette/myMeditationTime.png "My Meditation Time")
 
 ## Ordinateurs:
 
 ### Windows:
 
->![alt text](demo/desktop/windows/started.png "My Meditation Time")
+![alt text](demo/desktop/windows/started.png "My Meditation Time")
 
 ### Mac:
 
->![alt text](demo/desktop/mac/started.png "My Meditation Time")
+![alt text](demo/desktop/mac/started.png "My Meditation Time")
 
 ### Linux:
 
 **(Ubuntu dans cet exemple)**
 
->![alt text](demo/desktop/linux/started.png "My Meditation Time")
+![alt text](demo/desktop/linux/started.png "My Meditation Time")
 
 ---
 
 # Installer l'application!
 
-:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.
+**:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.**
 
->![alt text](demo/install1.jpg "My Meditation Time")
+![alt text](demo/install1.jpg "My Meditation Time")
 
 
 >Cliquez sur le bandeau qui apparaît en bas de votre écran de téléphone!
@@ -133,7 +133,7 @@ Ce message vous invite à installer l'application.
 ---
 ### une fois ceci fait!
 
->![alt text](demo/install2.jpg "My Meditation Time")
+![alt text](demo/install2.jpg "My Meditation Time")
 
 >Une fenêtre apparaît... cliquez sur installer!
 >
@@ -141,15 +141,15 @@ Ce message vous invite à installer l'application.
 
 >Un message apparaît afin de vous informez que l'installation est en cours :heavy_check_mark:
 >
->![alt text](demo/install3.jpg "My Meditation Time")
+![alt text](demo/install3.jpg "My Meditation Time")
 
 ### Voilà, l'application est installée sur votre téléphone
 
->![alt text](demo/start1.jpg "My Meditation Time")
+![alt text](demo/start1.jpg "My Meditation Time")
 
 ## Menu Pour un accès rapide.
 
->![alt text](demo/menu.jpg "My Meditation Time")
+![alt text](demo/menu.jpg "My Meditation Time")
 
 
 ---
@@ -160,7 +160,7 @@ Ce message vous invite à installer l'application.
 >
 >Chaque niveau fait légèrement varier l'apparence de l'application et fait apparaître des sons supplémentaires dans la section préréglages!
 
->![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
+![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
 
 **Cette fenêtre est accessible en cliquant sur le badge, en haut à gauche sur votre écran (il faut avoir fait au moins une session pour avoir le badge débutant)**
 
@@ -361,7 +361,7 @@ Ce message vous invite à installer l'application.
 
 >laissez votre doigt sur l'icone de l'app une seconde environ, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
 
->![alt text](demo/menu.jpg "My Meditation Time")
+![alt text](demo/menu.jpg "My Meditation Time")
 
 >Une fenêtre vous demande alors, si vous souhaitez vraiment supprimer cette application. cliquez sur ok.
 
