@@ -3,9 +3,13 @@ plugins:
 
 theme: jekyll-theme-cayman
 
+format: web
+
 favicon: assets/favicon.ico
 
 use_logo: true
+
+logo: demo/logo-app3.svg
 
 use_text_title: false
 
