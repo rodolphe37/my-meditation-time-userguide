@@ -37,8 +37,9 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
     - [Linux](#linux)
 
 [Installer l'application](#installer-lapplication)
-  -[Via le bandeau d'installation]()
-  -[Alternative]()
+
+  -[Via le bandeau d'installation](#via-le-bandeau-dinstallation)
+  -[Alternative](#alternative)
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
