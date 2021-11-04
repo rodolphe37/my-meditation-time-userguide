@@ -40,6 +40,16 @@ A simple and intuitive meditation initiation and practice application for adults
 
 [Menu For quick access](#menu-for-quick-access)
 
+[Several levels](#several-levels)
+
+  - [Beginner](#beginner)
+
+  - [Intermediate](#intermediate)
+
+  - [Advanced](#advanced)
+
+  - [Expert](#expert)
+
 [Features](#features)
 
   - [Why?](#why)
