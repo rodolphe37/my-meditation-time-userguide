@@ -2,3 +2,27 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-cayman
+
+favicon: favicon.ico
+
+use_logo: true
+
+use_text_title: false
+
+search_in_topnav: true
+
+show_feedback: true
+
+feedback_email: rodolphe.a@gmail.com
+
+breadcrumb_display: true
+
+breadcrumb_home_display: true
+
+breadcrumb_home_url: http://https://rodolphe37.github.io/
+
+title: My Mediation Time # title to appear in nav bar and page meta
+
+description: My Meditation Time # Displays as site description meta tag for site
+
+copyright: 2021 rodolphe Augusto, Inc. # appears in footer
