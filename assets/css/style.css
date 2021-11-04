@@ -590,16 +590,17 @@ a:hover {
 
 #my-meditation-time_v130 {
   margin-bottom: 1em;
+  font-size: 1.4rem;
 }
 
 .page-header {
   color: #fff;
   text-align: center;
-  background: rgba(123, 22, 255, 0.5);
+  background: #7b16ff;
   background-image: radial-gradient(
     ellipse farthest-corner at top left,
-    rgba(123, 22, 255, 0.5) 0,
-    rgba(68, 0, 204, 0.71) 100%
+    #691dcd 0,
+    #604b8b 100%
   );
   border-bottom: 2px solid black;
   border-top: 2px solid black;
