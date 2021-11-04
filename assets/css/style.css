@@ -54,13 +54,24 @@ a:hover {
   outline: 0;
 }
 
-p,
-h2 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+@media screen and (min-width: 1000px) {
+  p,
+  h2,
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .main-content h1,
+  .main-content h2,
+  .main-content h3,
+  .main-content h4,
+  .main-content h5,
+  .main-content h6 {
+    text-align: center;
+  }
 }
-
 abbr[title] {
   border-bottom: 1px dotted;
 }
