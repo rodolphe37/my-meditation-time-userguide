@@ -509,12 +509,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71;
-  background: #e9ebf0;
-}
-
-#content img {
-  border: 1px solid;
-  color: black;
+  background: #dcdee3;
 }
 
 #skip-to-content {
