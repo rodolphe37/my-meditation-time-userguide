@@ -138,6 +138,8 @@ Ce message vous invite à installer l'application.
 
 ## Alternative!
 
+>Les images ci-dessous représentent la version anglaise, mais la version française fonctionne de manière identique.
+
 ![alt text](demo/prealable.png "My Meditation Time")
 
 
