@@ -509,6 +509,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71;
+  background: #e9ebf0;
 }
 
 #skip-to-content {
@@ -697,7 +698,6 @@ a:hover {
 
 .main-content {
   word-wrap: break-word;
-  background: #e9ebf0;
 }
 
 .main-content :first-child {
