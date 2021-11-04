@@ -595,11 +595,11 @@ a:hover {
 .page-header {
   color: #fff;
   text-align: center;
-  background: rgb(123 22 255 / 50%);
+  background: rgba(123, 22, 255, 0.5);
   background-image: radial-gradient(
     ellipse farthest-corner at top left,
-    rgb(123 22 255 / 50%) 0,
-    rgb(68 0 204 / 71%) 100%
+    rgba(123, 22, 255, 0.5) 0,
+    rgba(68, 0, 204, 0.71) 100%
   );
   border-bottom: 2px solid black;
   border-top: 2px solid black;
