@@ -512,6 +512,11 @@ body {
   background: #e9ebf0;
 }
 
+#content img {
+  border: 1px solid;
+  color: black;
+}
+
 #skip-to-content {
   height: 1px;
   width: 1px;
