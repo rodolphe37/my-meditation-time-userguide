@@ -588,15 +588,22 @@ a:hover {
   }
 }
 
+#my-meditation-time_v130 {
+  margin-bottom: 1em;
+}
+
 .page-header {
   color: #fff;
   text-align: center;
-  background: #7b16ff;
+  background: rgb(123 22 255 / 50%);
   background-image: radial-gradient(
     ellipse farthest-corner at top left,
-    #7b16ff 0,
-    #40c 100%
+    rgb(123 22 255 / 50%) 0,
+    rgb(68 0 204 / 71%) 100%
   );
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  background: #e9ebf0;
 }
 
 @media (prefers-reduced-motion: no-preference) {
