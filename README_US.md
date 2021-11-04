@@ -11,6 +11,9 @@
 
 🇫🇷 - Pour la version Française, cliquez [ICI](./README.md)
 
+
+>***Some screenshots are in French, but the application is entirely in English.***
+
 ---
 
 ## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/logo-app3.svg" alt="drawing" height="60" width="60"/>My Meditation Time_V1.3.0
