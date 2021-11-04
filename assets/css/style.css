@@ -602,7 +602,7 @@ a:hover {
 @media (prefers-reduced-motion: no-preference) {
   .page-header img {
     animation: float 6s ease-in-out infinite;
-    box-shadow: none;
+    box-shadow: none !important;
   }
 }
 
