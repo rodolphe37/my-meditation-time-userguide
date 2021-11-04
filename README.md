@@ -114,7 +114,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 ### Linux:
 
-**(Ubuntu dans cette exemple)**
+**(Ubuntu dans cet exemple)**
 
 >![alt text](demo/desktop/linux/started.png "My Meditation Time")
 
