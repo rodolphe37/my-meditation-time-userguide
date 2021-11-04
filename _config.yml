@@ -3,6 +3,8 @@ plugins:
 
 theme: jekyll-theme-cayman
 
+theme_color: "#7367ef"
+
 format: web
 
 favicon: favicon.ico
