@@ -635,6 +635,7 @@ a:hover {
     animation: float 6s ease-in-out infinite;
     box-shadow: none !important;
     filter: drop-shadow(-1px 6px 3px rgba(50, 50, 0, 0.5));
+    width: 200px;
   }
 }
 

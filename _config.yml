@@ -14,7 +14,7 @@ use_logo: true
 github:
   is_project_page: true
 
-logo: assets/logo192.png
+logo: assets/logo512.png
 
 use_text_title: false
 
