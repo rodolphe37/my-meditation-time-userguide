@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 
 format: web
 
-favicon: assets/favicon.ico
+favicon: demo/logo.png
 
 use_logo: true
 
