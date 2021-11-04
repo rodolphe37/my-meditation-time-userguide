@@ -11,6 +11,9 @@ favicon: favicon.ico
 
 use_logo: true
 
+github:
+  is_project_page: false
+
 logo: demo/logo.png
 
 use_text_title: false
