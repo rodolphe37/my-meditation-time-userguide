@@ -37,6 +37,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
     - [Linux](#linux)
 
 [Installer l'application](#installer-lapplication)
+  -[Via le bandeau d'installation]()
+  -[Alternative]()
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
@@ -124,11 +126,21 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 **:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.**
 
+## Via le bandeau d'installation
+
+
 ![alt text](demo/install1.jpg "My Meditation Time")
 
 
 >Cliquez sur le bandeau qui apparaît en bas de votre écran de téléphone!
 Ce message vous invite à installer l'application.
+
+## Alternative!
+
+![alt text](demo/prealable.png "My Meditation Time")
+
+
+![alt text](demo/alt-install.png "My Meditation Time")
 
 ---
 ### une fois ceci fait!
