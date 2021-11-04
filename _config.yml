@@ -9,7 +9,7 @@ favicon: demo/logo.png
 
 use_logo: true
 
-logo: demo/favicon.ico
+logo: demo/logo.png
 
 use_text_title: false
 
