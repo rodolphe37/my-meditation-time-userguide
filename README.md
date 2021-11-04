@@ -39,6 +39,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 [Installer l'application](#installer-lapplication)
 
   -[Via le bandeau d'installation](#via-le-bandeau-dinstallation)
+
   -[Alternative](#alternative)
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
