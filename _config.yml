@@ -9,7 +9,7 @@ favicon: assets/favicon.ico
 
 use_logo: true
 
-logo: demo/logo-app3.svg
+logo: demo/logo.png
 
 use_text_title: false
 
