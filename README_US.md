@@ -144,6 +144,102 @@ This message prompts you to install the application.
 
 ---
 
+# Several levels.
+
+>***There are 4 levels in the application***
+>
+>Each level changes the appearance of the application slightly and makes additional sounds appear in the presets section!
+
+>![alt text](demo/levels/levels-explication.jpg "My Meditation Time")
+
+**This window is accessible by clicking on the badge at the top left of your screen (you need to have done at least one session to get the beginner badge)**
+
+---
+
+## Appearance by level:
+
+### Beginner
+
+>**Blue for the Beginner level!**
+
+>![debutant](demo/levels/1-debutant.jpg)
+---
+
+**:heavy_check_mark: 15 environmental sounds are available, such as beach, desert, forest, etc.**
+
+>![debutant](demo/levels/sounds-debutant.jpg)
+
+>:heavy_exclamation_mark: All these sounds are perfect for working on concentration, visualisation and breathing... The three pillars of your learning for beginners, or a nice mental walk for the more initiated!
+
+---
+
+
+>**The window that informs you of the level change**
+
+>![debutant](demo/levels/2-new-level1.jpg)
+
+
+
+### Intermediate
+
+>**purple colour for the intermediate level!**
+
+>![debutant](demo/levels/3-intermediaire.jpg)
+
+---
+
+**:heavy_check_mark: 9 musical mantras in Sanskrit are added, such as om namah shivaya, dhyan mantra, harekrishna flute, etc.**
+
+>![intermediaire](demo/levels/sounds-intermed.jpg)
+
+>:heavy_exclamation_mark: Mantras are well known to have benefits for the body and mind!
+
+---
+
+
+>**The window that informs you of the level change**
+
+>![debutant](demo/levels/4-new-level2.jpg)
+
+
+
+### Advanced
+
+>**Red colour for the advanced level!**
+
+>![debutant](demo/levels/5-confirmed.jpg)
+
+---
+
+**:heavy_check_mark: 9 tones aligned to a frequency are added, e.g. 174Hz, 285Hz, 396Hz, etc.**
+
+>![Confirmed](demo/levels/sounds-confirmed.jpg)
+
+>:heavy_exclamation_mark: All these melodies have virtues for the body and mind (each virtue is displayed in an information bubble when you click on a sound)
+
+---
+
+>**The window that informs you of the level change**
+
+>![debutant](demo/levels/6-new-level3.jpg)
+
+
+#### Expert
+
+>**Black colour for the Expert level!**
+
+>![debutant](demo/levels/7-expert.jpg)
+
+---
+
+**:heavy_check_mark: 9 new Tones aligned to a frequency are added, e.g. 714Hz, 852Hz, 963Hz, etc.**
+
+>![Expert](demo/levels/expert-sound.png)
+
+>:heavy_exclamation_mark: All these melodies have virtues for the body and mind (each virtue is displayed in an information bubble when you click on a sound)
+
+---
+
 # Features
 
 ## Why?
