@@ -160,7 +160,7 @@ This message prompts you to install the application.
 >
 >Each level changes the appearance of the application slightly and makes additional sounds appear in the presets section!
 
->![alt text](demo/levels/levels-explication-us.jpg "My Meditation Time")
+>![alt text](demo/levels/levels-explications-us.jpg "My Meditation Time")
 
 **This window is accessible by clicking on the badge at the top left of your screen (you need to have done at least one session to get the beginner badge)**
 
