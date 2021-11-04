@@ -418,7 +418,7 @@ MIT
 >### My Simple Cam
 >[https://github.com/rodolphe37/my-simple-cam-dektop-app](https://github.com/rodolphe37/my-simple-cam-dektop-app)
 
->### My SimpleTasks Manager (PWA version)>
+>### My SimpleTasks Manager (PWA version)
 [https://github.com/rodolphe37/my-simple-tasks-manager-](https://github.com/rodolphe37/my-simple-tasks-manager-)
 
 >### My SimpleTasks Manager (software version for Linux, Mac & Windows)
