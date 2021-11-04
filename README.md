@@ -139,7 +139,7 @@ Ce message vous invite à installer l'application.
 >
 >Cette action va installer le package de l'application en passant par le store (playStore pour android par exemple)
 
->Un message apparaît afin de vous informez que l'installation est en cours :heavy_check_mark:
+>**Un message apparaît afin de vous informez que l'installation est en cours :heavy_check_mark:**
 >
 ![alt text](demo/install3.jpg "My Meditation Time")
 
@@ -179,7 +179,7 @@ Ce message vous invite à installer l'application.
 
 >![debutant](demo/levels/sounds-debutant.jpg)
 
->:heavy_exclamation_mark: Tous ces sons sont parfaits pour travailler la concentration, la visualisation et la respiration... Les trois piliers de votre apprentissage pour les débutants, ou une belle promenade mentale pour les plus initiés !
+>***:heavy_exclamation_mark: Tous ces sons sont parfaits pour travailler la concentration, la visualisation et la respiration... Les trois piliers de votre apprentissage pour les débutants, ou une belle promenade mentale pour les plus initiés !***
 
 ---
 
@@ -202,7 +202,7 @@ Ce message vous invite à installer l'application.
 
 >![intermediaire](demo/levels/sounds-intermed.jpg)
 
->:heavy_exclamation_mark: Les mantras sont bien connus pour avoir des vertus pour le corps et l'esprit !
+>***:heavy_exclamation_mark: Les mantras sont bien connus pour avoir des vertus pour le corps et l'esprit !***
 
 ---
 
@@ -225,7 +225,7 @@ Ce message vous invite à installer l'application.
 
 >![Confirmed](demo/levels/sounds-confirmed.jpg)
 
->:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
+>***:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)***
 
 ---
 
@@ -246,7 +246,7 @@ Ce message vous invite à installer l'application.
 
 >![Expert](demo/levels/expert-sound.png)
 
->:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
+>***:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)***
 
 
 ---
