@@ -245,6 +245,9 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 nouveaux Sons alignés sur une fréquence sont ajoutés, comme par exemple, 714Hz, 852Hz, 963Hz, etc...**
+
+>![Expert](demo/levels/expert-sound.png)
+
 >:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
 
 
