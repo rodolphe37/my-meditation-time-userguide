@@ -54,6 +54,13 @@ a:hover {
   outline: 0;
 }
 
+p,
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -843,7 +850,7 @@ a:hover {
   padding: 0 1rem;
   margin-left: 0;
   color: #819198;
-  border-left: 0.3rem solid #dce6f0;
+  /* border-left: 0.3rem solid #dce6f0; */
 }
 
 .main-content blockquote > :first-child {
