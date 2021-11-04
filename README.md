@@ -178,6 +178,9 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 15 Sons environnementaux sont disponibles, comme par exemple, la plage, le désert, la forêt, etc...**
+
+>![debutant](demo/levels/sounds-debutant.jpg)
+
 >:heavy_exclamation_mark: Tous ces sons sont parfaits pour travailler la concentration, la visualisation et la respiration... Les trois piliers de votre apprentissage pour les débutants, ou une belle promenade mentale pour les plus initiés !
 
 ---
@@ -198,6 +201,9 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 mantras musicaux en sanskrit sont ajoutés, comme par exemple, om namah shivaya, dhyan mantra, harekrishna flûte, etc...**
+
+>![intermediaire](demo/levels/sounds-intermed.jpg)
+
 >:heavy_exclamation_mark: Les mantras sont bien connus pour avoir des vertus pour le corps et l'esprit !
 
 ---
@@ -218,6 +224,9 @@ Ce message vous invite à installer l'application.
 ---
 
 **:heavy_check_mark: 9 Sons alignés sur une fréquence sont ajoutés, comme par exemple, 174Hz, 285Hz, 396Hz, etc...**
+
+>![Confirmed](demo/levels/sounds-confirmed.jpg)
+
 >:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)
 
 ---
@@ -351,7 +360,7 @@ Ce message vous invite à installer l'application.
 
 >laissez votre doigt sur l'icone de l'app une seconde environ, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
 
-![alt text](demo/uninstall1.jpg "My Meditation Time")
+>![alt text](demo/menu.jpg "My Meditation Time")
 
 >Une fenêtre vous demande alors, si vous souhaitez vraiment supprimer cette application. cliquez sur ok.
 
@@ -404,58 +413,61 @@ MIT
 # Mes autres projets:
 
 >### My Simple Tutorial Creator
->https://github.com/rodolphe37/my-simple-tutorial-creator
+>[https://github.com/rodolphe37/my-simple-tutorial-creator](https://github.com/rodolphe37/my-simple-tutorial-creator)
 
 >### My Simple Cam
->https://github.com/rodolphe37/my-simple-cam-dektop-app
+>[https://github.com/rodolphe37/my-simple-cam-dektop-app](https://github.com/rodolphe37/my-simple-cam-dektop-app)
+
+>### My SimpleTasks Manager (PWA version)>
+[https://github.com/rodolphe37/my-simple-tasks-manager-](https://github.com/rodolphe37/my-simple-tasks-manager-)
 
 >### My SimpleTasks Manager (software version for Linux, Mac & Windows)
->https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version
+>[https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
 
 >### QRCode Tools
->https://github.com/rodolphe37/qr-code-tools
+>[https://github.com/rodolphe37/qr-code-tools](https://github.com/rodolphe37/qr-code-tools)
 
 >### App for decrypt greenPass europe QRcode
->https://github.com/rodolphe37/qrcode-decoder
+>[https://github.com/rodolphe37/qrcode-decoder](https://github.com/rodolphe37/qrcode-decoder)
 
 >### Css animation with Create React App base.
->https://github.com/rodolphe37/halloween2021-bat-tuto-youtube-video
+>[https://github.com/rodolphe37/halloween2021-bat-tuto-youtube-video](https://github.com/rodolphe37/halloween2021-bat-tuto-youtube-video)
 
 >### My GitHub "open Sources" project
->https://github.com/rodolphe37/pwa-react-project
+>[https://github.com/rodolphe37/pwa-react-project](https://github.com/rodolphe37/pwa-react-project)
 
 >### cra-template-github-my-profile
->https://github.com/rodolphe37/cra-template-github-my-profile
+>[https://github.com/rodolphe37/cra-template-github-my-profile](https://github.com/rodolphe37/cra-template-github-my-profile)
 
 >### My Awesome Custom Alert
->https://github.com/rodolphe37/my-awesome-custom-alert
+>[https://github.com/rodolphe37/my-awesome-custom-alert](https://github.com/rodolphe37/my-awesome-custom-alert)
 
 >### Geolocation starter app React-native
->https://github.com/rodolphe37/react-native_geolocation-tracker
+>[https://github.com/rodolphe37/react-native_geolocation-tracker](https://github.com/rodolphe37/react-native_geolocation-tracker)
 
 >### Classic React Ultimate Messenger version repository (for open sources contributors)
->https://github.com/rodolphe37/rum-open-sources
+>[https://github.com/rodolphe37/rum-open-sources](https://github.com/rodolphe37/rum-open-sources)
 
 >### React Ultimate Messenger template for React (create-react-app tools)
->https://github.com/rodolphe37/cra-react-ultimate-messenger
+>[https://github.com/rodolphe37/cra-react-ultimate-messenger](https://github.com/rodolphe37/cra-react-ultimate-messenger)
 
 >### PWA React Ultimate Messenger template for React (create-react-app tools)
->https://github.com/rodolphe37/cra-pwa-react-ultimate-messenger
+>[https://github.com/rodolphe37/cra-pwa-react-ultimate-messenger](https://github.com/rodolphe37/cra-pwa-react-ultimate-messenger)
 
 >### installation and initialization shell script for the PWA React Ultimate Messenger template
->https://github.com/rodolphe37/pwa-rum-install-pack
+>[https://github.com/rodolphe37/pwa-rum-install-pack](https://github.com/rodolphe37/pwa-rum-install-pack)
 
 >### Upload-image-profil-component
->https://github.com/rodolphe37/Upload-image-profil-component
+>[https://github.com/rodolphe37/Upload-image-profil-component](https://github.com/rodolphe37/Upload-image-profil-component)
 
 >### Jeux libres de droits "open Sources" - Memory Yoga Cards Game - Sort the Waste Game - Match 3 Yoga Game - Tetris Classic Game - Remake Earth Puzzle Game
->https://github.com/rodolphe37/install-games-repository
+>[https://github.com/rodolphe37/install-games-repository](https://github.com/rodolphe37/install-games-repository)
 
 >### Administration template - React JS & react-admin
->https://github.com/rodolphe37/nfc-updates-front
+>[https://github.com/rodolphe37/nfc-updates-front](https://github.com/rodolphe37/nfc-updates-front)
 
 
 >### Administration template Backend - Node & Express
->https://github.com/rodolphe37/nfc-updates-back
+>[https://github.com/rodolphe37/nfc-updates-back](https://github.com/rodolphe37/nfc-updates-back)
 
 ---
