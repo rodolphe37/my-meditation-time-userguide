@@ -326,7 +326,7 @@ This message prompts you to install the application.
 
 >By clicking on this button, you will see the history of all your sessions, ordered from the most recent to the oldest (in this example, there are only one session but there is no limit).
 
-![alt text](demo/new/eng/histo2-us.jpg "My Meditation Time")
+![alt text](demo/levels/histo2-us.jpg "My Meditation Time")
 
 ---
 
@@ -336,7 +336,7 @@ This message prompts you to install the application.
 
 >Click on the red button on the window... be careful, this action is irreversible, you can't go back!
 
-![alt text](demo/new/eng/resetHistory-us.jpg "My Meditation Time")
+![alt text](demo/levels/resetHistory-us.jpg "My Meditation Time")
 
 
 
