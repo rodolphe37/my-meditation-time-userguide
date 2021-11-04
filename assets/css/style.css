@@ -623,6 +623,10 @@ a:hover {
   );
   border-bottom: 2px solid black;
   border-top: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 @media (prefers-reduced-motion: no-preference) {
