@@ -141,7 +141,7 @@ Ce message vous invite à installer l'application.
 ![alt text](demo/prealable.png "My Meditation Time")
 
 
-![alt text](demo/alt-install.png "My Meditation Time")
+![alt text](demo/alt.png "My Meditation Time")
 
 ---
 ### une fois ceci fait!
