@@ -10,6 +10,14 @@ html {
 body {
   margin: 0;
 }
+::-webkit-scrollbar {
+  width: 6px;
+  border-left: 1px solid #e6ecf8;
+  cursor: pointer;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #7b16ff;
+}
 
 article,
 aside,
