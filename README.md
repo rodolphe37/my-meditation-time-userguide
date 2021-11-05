@@ -42,7 +42,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
     - [Via le bandeau d'installation](#via-le-bandeau-dinstallation)
     - [Alternative](#alternative)
 
-  - [Sur Ordianteurs](#sur-ordianteurs)
+  - [Sur Ordinateurs](#sur-ordianteurs)
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
