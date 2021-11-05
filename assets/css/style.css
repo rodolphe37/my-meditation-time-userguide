@@ -631,7 +631,7 @@ a:hover {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .page-header img {
+  .page-header .pictureLogo {
     animation: float 6s ease-in-out infinite;
     box-shadow: none !important;
     filter: drop-shadow(-1px 6px 3px rgba(50, 50, 0, 0.5));
