@@ -639,6 +639,10 @@ a:hover {
   }
 }
 
+.page-header li {
+  list-style: none;
+}
+
 @keyframes float {
   0% {
     box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
