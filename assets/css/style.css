@@ -608,12 +608,6 @@ a:hover {
   }
 }
 
-.main-content p:first-child {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 #my-meditation-time_v130 {
   margin-bottom: 1em;
   font-size: 1.4rem;
