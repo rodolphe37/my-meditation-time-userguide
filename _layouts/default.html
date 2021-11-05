@@ -39,12 +39,14 @@
   </header>
   <main id="content" class="main-content" role="main">
     <div class="menu-site">
-      <h2>{{ site.docs_list_title }}</h2>
-      <ul>
-        {% for item in site.docs %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-      </ul>
+    {% for item in site.toc %}
+    <h3>{{ item.title }}</h3>
+    <ul>
+      {% for entry in item.subfolderitems %}
+      <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
     </div>
     {{ content }}
     <footer class="site-footer">
