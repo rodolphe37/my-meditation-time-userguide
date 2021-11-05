@@ -42,8 +42,6 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
     - [Via le bandeau d'installation](#via-le-bandeau-dinstallation)
     - [Alternative](#alternative)
 
-  - [Sur Mobiles (Iphones)](#sur-mobiles-iphones)
-
   - [Sur Ordianteurs](#sur-ordianteurs)
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
@@ -135,7 +133,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 # Installer l'application!
 
-**:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.**
+**:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables Android ou ordinateurs Windows, Mac ou Linux.**
 
 ## Sur Mobiles (Android).
 
@@ -177,12 +175,6 @@ Ce message vous invite à installer l'application.
 ## Menu Pour un accès rapide.
 
 ![alt text](demo/menu.jpg "My Meditation Time")
-
-## Sur Mobiles (Iphones)
-
-> Pour les Iphones, un bandeau, en haut de votre écran vous indique comment installer cette app
-
-![alt text](demo/iphones/install.png "My Meditation Time")
 
 
 ## Sur Ordinateurs
