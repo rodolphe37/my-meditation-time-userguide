@@ -630,21 +630,6 @@ a:hover {
   flex-direction: column;
 }
 
-.menu-site {
-  position: fixed;
-  right: 6px;
-  background: #a4a1a1;
-  padding: 7px;
-  top: 2em;
-}
-.menu-site ul {
-  list-style: none;
-}
-
-.menu-site ul li a {
-  color: white;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   .page-header img {
     animation: float 6s ease-in-out infinite;
