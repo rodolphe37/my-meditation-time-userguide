@@ -13,7 +13,7 @@ toc:
   - title: Group 1
     subfolderitems:
       - page: Application en ligne
-        url: #computer-site-en-ligne
+        url: /#computer-site-en-ligne
       - page: Thing 2
         url: /thing2.html
       - page: Thing 3
