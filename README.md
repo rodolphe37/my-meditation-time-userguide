@@ -91,6 +91,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Mes autres projets](#mes-autres-projets)
 
+[Feedback et commentaires](#feedback-et-commentaires)
+
 ---
 
 
@@ -528,3 +530,4 @@ MIT
 >### Administration template Backend - Node & Express
 >[https://github.com/rodolphe37/nfc-updates-back](https://github.com/rodolphe37/nfc-updates-back)
 
+## Feedback et commentaires!
