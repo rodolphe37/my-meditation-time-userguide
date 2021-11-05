@@ -29,3 +29,5 @@ title: My Meditation Time # title to appear in nav bar and page meta
 description: Application simple et intuitive d’initiation et de pratique à la méditation! # Displays as site description meta tag for site
 
 copyright: 2021 rodolphe Augusto, Inc. # appears in footer
+
+# google_analytics:
