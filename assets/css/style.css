@@ -54,7 +54,7 @@ a:hover {
   outline: 0;
 }
 
-@media screen and (min-width: 1000px) {
+/* @media screen and (min-width: 1000px) {
   p,
   h2,
   ul {
@@ -71,7 +71,7 @@ a:hover {
   .main-content h6 {
     text-align: center;
   }
-}
+} */
 abbr[title] {
   border-bottom: 1px dotted;
 }
