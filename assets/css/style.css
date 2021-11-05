@@ -649,6 +649,7 @@ a:hover {
 
 .site-footer li {
   list-style: none;
+  margin-top: -14px;
 }
 .envelope {
   width: 40px;
@@ -943,6 +944,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column-reverse;
 }
 
 @media screen and (min-width: 64em) {
