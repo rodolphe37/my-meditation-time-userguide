@@ -36,6 +36,11 @@
     <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
     <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
     {% endif %}
+    <li>
+      <a class="email" title="Send epost med tilbakemelding" href="#"
+        onclick="javascript:window.location='mailto:{{site.feedback_email}}?subject={{site.uistring.feedback_subject_line}} feedback&body=J\'ai quelques commentaires concernant {{page.title}} : ' + window.location.href;"><i
+          class="fas fa-envelope topnavfeedback"></i>{{site.uistring.feedback_link_name}}</a>
+    <li>
   </header>
   <main id="content" class="main-content" role="main">
     {{ content }}
