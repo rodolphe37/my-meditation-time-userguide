@@ -608,6 +608,12 @@ a:hover {
   }
 }
 
+#content p:first-child() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #my-meditation-time_v130 {
   margin-bottom: 1em;
   font-size: 1.4rem;
@@ -925,6 +931,9 @@ a:hover {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media screen and (min-width: 64em) {
