@@ -632,7 +632,7 @@ a:hover {
 
 .menu-site {
   position: fixed;
-  left: 6px;
+  right: 6px;
   background: #a4a1a1;
   padding: 7px;
   top: 2em;
