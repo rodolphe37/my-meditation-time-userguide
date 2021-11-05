@@ -39,8 +39,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 [Installer l'application](#installer-lapplication)
 
   - [Sur Mobiles (Android)](#sur-mobiles-android)
-  - [Via le bandeau d'installation](#via-le-bandeau-dinstallation)
-  - [Alternative](#alternative)
+    - [Via le bandeau d'installation](#via-le-bandeau-dinstallation)
+    - [Alternative](#alternative)
 
   - [Sur Mobiles (Iphones)](#sur-mobiles-iphones)
 
