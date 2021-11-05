@@ -629,6 +629,18 @@ a:hover {
   justify-content: center;
   flex-direction: column;
 }
+.menu-site ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.menu-site ul li a {
+  color: white;
+  margin-right: 15px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .page-header img {
