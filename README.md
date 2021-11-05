@@ -38,8 +38,13 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Installer l'application](#installer-lapplication)
 
+  - [Sur Mobiles (Android)](#sur-mobiles-android)
   - [Via le bandeau d'installation](#via-le-bandeau-dinstallation)
   - [Alternative](#alternative)
+
+  - [Sur Mobiles (Iphones)](#sur-mobiles-iphones)
+
+  - [Sur Ordianteurs](#sur-ordianteurs)
 
 [Menu Pour un accès rapide](#menu-pour-un-accès-rapide)
 
@@ -70,6 +75,9 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
   - [Partagez l'application avec vos ami(e)s](#partagez-lapplication-avec-vos-amies)
 
 [Désinstaller l'application](#désinstaller-lapplication)
+
+  - [Sur Mobile](#sur-mobile-désinstallation)
+  - [Sur Ordinateur](#sur-ordinateur-désinstallation)
 
 [compatibilité](#compatibilités)
 
@@ -127,7 +135,9 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 **:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables ou ordinateurs Windows, Mac ou Linux.**
 
-## Via le bandeau d'installation
+## Sur Mobiles (Android).
+
+### Via le bandeau d'installation
 
 
 ![alt text](demo/install1.jpg "My Meditation Time")
@@ -136,7 +146,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 >Cliquez sur le bandeau qui apparaît en bas de votre écran de téléphone!
 Ce message vous invite à installer l'application.
 
-## Alternative!
+### Alternative!
 
 >Les images ci-dessous représentent la version anglaise, mais la version française fonctionne de manière identique.
 
@@ -166,6 +176,29 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/menu.jpg "My Meditation Time")
 
+## Sur Mobiles (Iphones)
+
+> Pour les Iphones, un bandeau, en haut de votre écran vous indique comment installer cette app
+
+![alt text](demo/iphones/install.png "My Meditation Time")
+
+
+## Sur Ordinateurs
+
+> L'installation se passe exactement de la même manière sur tous les systèmes d'exploitation (Windows, Mac et Linux)
+
+![alt text](demo/desktop/install.png "My Meditation Time")
+
+
+![alt text](demo/desktop/install2.png "My Meditation Time")
+
+>L'application installé sur le système
+
+![alt text](demo/desktop/installed.png "My Meditation Time")
+
+> l'Icone de l'app dans la liste de vos applis.
+
+![alt text](demo/desktop/installed2.png "My Meditation Time")
 
 ---
 
@@ -374,6 +407,8 @@ Ce message vous invite à installer l'application.
 
 **:heavy_exclamation_mark: Vous pouvez désinstaller cette App quand vous le souhaitez, simplement**
 
+### Sur Mobile (désinstallation)
+
 >laissez votre doigt sur l'icone de l'app une seconde environ, elle se met à danser et un menu contextuel apparaît. cliquez sur Désinst.
 
 ![alt text](demo/menu.jpg "My Meditation Time")
@@ -385,6 +420,13 @@ Ce message vous invite à installer l'application.
 >Une fois ceci fait, un ultime message apparaîtra afin de vous prévenir que l'app à bien été désinstallé.
 
 ![alt text](demo/uninstall3.jpg "My Meditation Time")
+
+
+### Sur Ordinateur (désinstallation)
+
+![alt text](demo/desktop/uninstall.png "My Meditation Time")
+
+![alt text](demo/desktop/uninstall2.png "My Meditation Time")
 
 
 ---
