@@ -629,17 +629,20 @@ a:hover {
   justify-content: center;
   flex-direction: column;
 }
+
+.menu-site {
+  position: fixed;
+  left: 6px;
+  background: #a4a1a1;
+  padding: 7px;
+  top: 2em;
+}
 .menu-site ul {
   list-style: none;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
 }
 
 .menu-site ul li a {
   color: white;
-  margin-right: 15px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
