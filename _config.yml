@@ -12,8 +12,8 @@ favicon: favicon.ico
 toc:
   - title: Group 1
     subfolderitems:
-      - page: Thing 1
-        url: computer-site-en-ligne
+      - page: Application en ligne
+        url: #computer-site-en-ligne
       - page: Thing 2
         url: /thing2.html
       - page: Thing 3
