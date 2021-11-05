@@ -39,10 +39,10 @@
     {% if site.show_feedback %}
     <li>
       <a class="email" title="Faites moi part de vos retours" href="#"
-        onclick="javascript:window.location='mailto:{{site.feedback_email}}?subject={{site.uistring.feedback_subject_line}} feedback&body=J\'ai quelques commentaires concernant {{page.title}} : ' + window.location.href;"><i
-          class="fas fa-envelope topnavfeedback"></i>{{site.uistring.feedback_link_name}}</a>
+        onclick="javascript:window.location='mailto:{{site.feedback_email}}?subject={{site.uistring.feedback_subject_line}} feedback&body=J\'ai quelques commentaires concernant {{page.title}} : ' + window.location.href;">
+        <img src="/assets/envelope.svg" width="40" height="40" />
     <li>
-      {% endif %}
+    {% endif %}
   </header>
   <main id="content" class="main-content" role="main">
     {{ content }}
