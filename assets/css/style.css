@@ -639,8 +639,11 @@ a:hover {
   }
 }
 
-.footer li {
+.site-footer li {
   list-style: none;
+}
+.envelope {
+  width: 40px;
 }
 
 @keyframes float {
