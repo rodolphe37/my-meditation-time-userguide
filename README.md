@@ -19,13 +19,17 @@
 
 Une Application d'initiation et de pratique de la méditation simple et intuitive, pour adultes et enfants.
 
+>***Compatible Android, ChromeOS, Windows, Mac et Linux.***
+
 ### :bookmark: Avec cette application vous pouvez méditer en toute simplicité, il y a différents préréglages (durée ou/et son d'ambiance) disponibles.
 
+## :heavy_exclamation_mark: Information importante :
 
+>**Pour une meilleur compatibilité, veuillez utiliser le navigateur Chrome. (:heavy_exclamation_mark:  Cette documentation à été faite sur ce navigateur)**
 
 ## Quick Links
 
-[Application en ligne](#computer-site-en-ligne)
+[Application en ligne](#computer-application-en-ligne)
 
 [Apperçu de l'App](#apperçu-de-lapp)
 
@@ -94,10 +98,10 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 ---
 
 
-# :computer: site en ligne
+# :computer: Application en ligne
 
 
-**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.netlify.app/)**,
+**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.fr/)**,
 
 ---
 
