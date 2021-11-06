@@ -21,9 +21,13 @@
 
 A simple and intuitive meditation initiation and practice application for adults and children.
 
+>***Compatible with Android, ChromeOS, Windows, Mac and Linux.***
+
+
 ### :bookmark: With this application you can meditate in all simplicity, there are different presets (duration or/and ambient sound) available.
 
-
+## :heavy_exclamation_mark: Important information:
+>**For best compatibility, please use the Chrome browser. (:heavy_exclamation_mark: This documentation was made on this browser)**
 
 ## Quick Links
 
