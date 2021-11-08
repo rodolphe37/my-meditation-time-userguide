@@ -989,7 +989,8 @@ a:hover {
   right: 10%;
   opacity: 0;
   z-index: 10;
-
+  background: none;
+  border: none;
   transform: translateY(30%);
   transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 }
