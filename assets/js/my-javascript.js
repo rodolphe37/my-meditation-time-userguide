@@ -1,5 +1,32 @@
-// document.getElementById("jsScroll").scrollIntoView({ behavior: "smooth" });
-// window.scrollTo({ top: 0, behavior: "smooth" });
+function hasScrollBehavior() {
+  return "scrollBehavior" in document.documentElement.style;
+}
+
+function smoothScroll() {
+  var currentY = window.scrollY;
+  var int = setInterval(function () {
+    window.scrollTo(0, currentY);
+
+    if (currentY > 500) {
+      currentY -= 70;
+    } else if (currentY > 100) {
+      currentY -= 50;
+    } else {
+      currentY -= 10;
+    }
+
+    if (currentY <= 0) clearInterval(int);
+  }, 1000 / 60); // 60fps
+}
+
+function scrollToTop() {
+  if (hasScrollBehavior()) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  } else {
+    smoothScroll();
+  }
+}
+
 function toggleScrollUpButton() {
   var y = window.scrollY;
   var e = document.getElementById("scroll-to-top");
@@ -12,7 +39,15 @@ function toggleScrollUpButton() {
   }
 }
 
-window.addEventListener("scroll", toggleScrollUpButton);
+document.addEventListener(
+  "DOMContentLoaded",
+  function () {
+    document.removeEventListener("DOMContentLoaded", arguments.callee, false);
 
-var e = document.getElementById("scroll-to-top");
-e.addEventListener("click", scrollToTop, false);
+    window.addEventListener("scroll", toggleScrollUpButton);
+
+    var e = document.getElementById("scroll-to-top");
+    e.addEventListener("click", scrollToTop, false);
+  },
+  false
+);
