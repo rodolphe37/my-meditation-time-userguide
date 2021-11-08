@@ -7,9 +7,9 @@ function smoothScroll() {
   var int = setInterval(function () {
     window.scrollTo(0, currentY);
 
-    if (currentY > 500) {
+    if (currentY > 700) {
       currentY -= 70;
-    } else if (currentY > 100) {
+    } else if (currentY > 200) {
       currentY -= 50;
     } else {
       currentY -= 10;
