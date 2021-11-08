@@ -985,8 +985,8 @@ a:hover {
   display: block;
   position: fixed;
   font-size: 20px;
-  bottom: 10%;
-  right: 10%;
+  bottom: 2%;
+  right: 2%;
   opacity: 0;
   z-index: 10;
   background: none;
