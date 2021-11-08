@@ -980,62 +980,8 @@ a:hover {
   justify-content: center;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet');
-
-.scroll {
-  cursor: pointer;
-  width: 70px;
-  height: 70px;
+#scroll-to-top {
   position: fixed;
-  bottom: 40px;
-  right: -80px;
-  /* border-radius: 100%; */
-  /* background-image: radial-gradient(
-    circle farthest-corner at 10% 20%,
-    rgba(90, 92, 106, 1) 0%,
-    rgba(32, 45, 58, 1) 81.3%
-  ); */
-  color: #fff;
-  font-size: 44px;
-  font-weight: bold;
-  text-align: center;
-  /* box-shadow: 0 0 5px 0px #888; */
-  transition: 300ms;
-  z-index: 99999;
-}
-
-.scroll i {
-  margin-top: 10px;
-  text-shadow: 0 0 2px #fff;
-}
-
-.scroll:hover i {
-  animation-name: rotate;
-  animation-duration: 300ms;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-}
-
-@keyframes rotate {
-  from {
-    margin-top: 15px;
-  }
-  to {
-    margin-top: 5px;
-  }
-}
-
-.visible {
-  right: 5px;
-  transition: all 400ms;
-  transform: rotate(360deg);
-  bottom: 2.5em;
-}
-
-.fa-angle-up:hover {
-  transition: margin-top 0.3s ease-in-out;
-  margin-top: -5px;
-}
-#jsScroll img {
-  width: 95%;
+  bottom: 30px;
+  right: 40px;
 }

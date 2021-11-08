@@ -40,9 +40,8 @@
   <main id="content" class="main-content" role="main">
     {{ content }}
     <div>
-      <div id="jsScroll" className="scroll" onClick="scrollToTop">
-        <img className="fa fa-angle-up" src="{{ site.baseurl }}/assets/top-button.png" alt="" />
-      </div>
+      <button id='scroll-to-top'><img className="fa fa-angle-up" src="{{ site.baseurl }}/assets/top-button.png" alt="" /></button>
+
     </div>
     <footer class="site-footer">
       <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
@@ -63,24 +62,6 @@
       {% endif %}
    </div>
   </main>
-  <script>
-    window.addEventListener("scroll", (e) => {
-      var el = document.getElementById("jsScroll");
-      if (window.scrollY > 400) {
-        el.classList.add("visible");
-      } else if (window.scrollY < 400) {
-        el.classList.remove("visible");
-      }
-    });
-
-    function scrollToTop() {
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth",
-      });
-    }
-
-  </script>
 </body>
 
 </html>

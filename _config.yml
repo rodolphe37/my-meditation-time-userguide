@@ -1,6 +1,9 @@
 plugins:
   - jemoji
 
+head_scripts:
+  - /assets/js/my-javascript.js
+
 theme: jekyll-theme-cayman
 
 theme_color: "#7367ef"
