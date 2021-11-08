@@ -1,5 +1,5 @@
-document.getElementById("jsScroll").scrollIntoView({ behavior: "smooth" });
-window.scrollTo({ top: 0, behavior: "smooth" });
+// document.getElementById("jsScroll").scrollIntoView({ behavior: "smooth" });
+// window.scrollTo({ top: 0, behavior: "smooth" });
 function toggleScrollUpButton() {
   var y = window.scrollY;
   var e = document.getElementById("scroll-to-top");
