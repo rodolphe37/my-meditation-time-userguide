@@ -68,9 +68,6 @@
       var el = document.getElementById("jsScroll");
       if (window.scrollY > 400) {
         el.classList.add("visible");
-      }
-      if (window.scrollY > 400 && titleSound !== "") {
-        el.classList.remove("visible");
       } else if (window.scrollY < 400) {
         el.classList.remove("visible");
       }
