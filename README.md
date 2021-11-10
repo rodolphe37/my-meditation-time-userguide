@@ -52,13 +52,17 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Plusieurs Niveaux](#plusieurs-niveaux)
 
-  - [Débutant](#débutant)
+  - [Pourcentage d'évolution](#pourcentage-dévolution-au-sein-dun-niveau)
 
-  - [Intermédiaire](#intermédiaire)
+  - [Apparence selon le niveau](#apparence-selon-le-niveau)
 
-  - [Confirmé](#confirmé)
+    - [Débutant](#débutant)
 
-  - [Expert](#expert)
+    - [Intermédiaire](#intermédiaire)
+
+    - [Confirmé](#confirmé)
+
+    - [Expert](#expert)
 
 [Fonctionnalités](#fonctionnalités)
 
@@ -139,6 +143,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 **:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables Android ou ordinateurs Windows, Mac ou Linux.**
 
+>rendez vous à cette adresse pour suivre la procédure d'installation : ***[ICI](https://my-meditation-time.netlify.app/)***
+
 ## Sur Mobiles (Android).
 
 ### Via le bandeau d'installation
@@ -212,18 +218,32 @@ Ce message vous invite à installer l'application.
 
 ---
 
+## Pourcentage d'évolution au sein d'un niveau.
+
+>Le pourcentage d'avancement jusqu'au prochain niveau est indiqué en temps réel sur le badge.
+
+![debutant](demo/new/badges.png)
+
+>Vous pouvez accéder à votre niveau ainsi qu'au pourcentage d'avancement à tout moment dans la fenêtre qui apparaît quand vous cliquez sur le badge!
+
+![debutant](demo/new/avancement.png)
+
+---
+
 ## Apparence selon le niveau:
 
 ### Débutant
 
 >**La couleur bleue pour le niveau Débutant!**
 
->![debutant](demo/levels/1-debutant.jpg)
+![debutant](demo/levels/1-debutant.jpg)
+
 ---
+
 
 **:heavy_check_mark: 15 Sons environnementaux sont disponibles, comme par exemple, la plage, le désert, la forêt, etc...**
 
->![debutant](demo/levels/sounds-debutant.jpg)
+![debutant](demo/levels/sounds-debutant.jpg)
 
 >***:heavy_exclamation_mark: Tous ces sons sont parfaits pour travailler la concentration, la visualisation et la respiration... Les trois piliers de votre apprentissage pour les débutants, ou une belle promenade mentale pour les plus initiés !***
 
@@ -232,7 +252,7 @@ Ce message vous invite à installer l'application.
 
 >**La fenêtre qui vous informent du changement de niveau**
 
->![debutant](demo/levels/2-new-level1.jpg)
+![debutant](demo/levels/2-new-level1.jpg)
 
 
 
@@ -240,13 +260,13 @@ Ce message vous invite à installer l'application.
 
 >**La couleur violet pour le niveau Intermédiaire!**
 
->![debutant](demo/levels/3-intermediaire.jpg)
+![debutant](demo/levels/3-intermediaire.jpg)
 
 ---
 
 **:heavy_check_mark: 9 mantras musicaux en sanskrit sont ajoutés, comme par exemple, om namah shivaya, dhyan mantra, harekrishna flûte, etc...**
 
->![intermediaire](demo/levels/sounds-intermed.jpg)
+![intermediaire](demo/levels/sounds-intermed.jpg)
 
 >***:heavy_exclamation_mark: Les mantras sont bien connus pour avoir des vertus pour le corps et l'esprit !***
 
@@ -255,7 +275,7 @@ Ce message vous invite à installer l'application.
 
 >**La fenêtre qui vous informent du changement de niveau**
 
->![debutant](demo/levels/4-new-level2.jpg)
+![debutant](demo/levels/4-new-level2.jpg)
 
 
 
@@ -263,13 +283,13 @@ Ce message vous invite à installer l'application.
 
 >**La couleur rouge pour le niveau Confirmé!**
 
->![debutant](demo/levels/5-confirmed.jpg)
+![debutant](demo/levels/5-confirmed.jpg)
 
 ---
 
 **:heavy_check_mark: 9 Sons alignés sur une fréquence sont ajoutés, comme par exemple, 174Hz, 285Hz, 396Hz, etc...**
 
->![Confirmed](demo/levels/sounds-confirmed.jpg)
+![Confirmed](demo/levels/sounds-confirmed.jpg)
 
 >***:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)***
 
@@ -277,20 +297,20 @@ Ce message vous invite à installer l'application.
 
 >**La fenêtre qui vous informent du changement de niveau**
 
->![debutant](demo/levels/6-new-level3.jpg)
+![debutant](demo/levels/6-new-level3.jpg)
 
 
 #### Expert
 
 >**La couleur noir pour le niveau Expert!**
 
->![debutant](demo/levels/7-expert.jpg)
+![debutant](demo/levels/7-expert.jpg)
 
 ---
 
 **:heavy_check_mark: 9 nouveaux Sons alignés sur une fréquence sont ajoutés, comme par exemple, 714Hz, 852Hz, 963Hz, etc...**
 
->![Expert](demo/levels/expert-sound.png)
+![Expert](demo/levels/expert-sound.png)
 
 >***:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)***
 
