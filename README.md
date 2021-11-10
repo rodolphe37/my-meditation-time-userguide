@@ -13,7 +13,7 @@
 
 ---
 
-## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/logo-app3.svg" alt="drawing" height="60" width="60"/>My Meditation Time_V1.3.0
+## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/logo-app3.svg" alt="drawing" height="60" width="60"/>My Meditation Time_V1.4.0
 
 
 
@@ -239,7 +239,6 @@ Ce message vous invite à installer l'application.
 ![debutant](demo/levels/1-debutant.jpg)
 
 ---
-
 
 **:heavy_check_mark: 15 Sons environnementaux sont disponibles, comme par exemple, la plage, le désert, la forêt, etc...**
 
