@@ -469,7 +469,7 @@ Chaque média à été vérifié avec attention avant d'être intègré, ils con
 
 ![alt text](demo/version1.5.0/child-section/1-child-home-v1.5.0.png  "My Meditation Time")
 
->Une fenêtre vous informe que contrairement au rest de l'app, qui est totalement accessible hors-ligne (mode avion par exemple), cette section ncessite une connexion.
+>Une fenêtre vous informe que contrairement au reste de l'app, qui est totalement accessible hors-ligne (mode avion par exemple), cette section necessite une connexion.
 cela est dû au fait que les média sont sur youtube, contrairement à tous les autres médias de l'app.
 
 ![alt text](demo/version1.5.0/child-section/2-child-alert1-v1.5.0.png  "My Meditation Time")
