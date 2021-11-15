@@ -345,11 +345,11 @@ Ce message vous invite à installer l'application.
 
 >Les sections "Presets" & "Session.
 
-![alt text](demo/version1.5.0/presets-session-v1.5.0.png "My Meditation Time")
+![alt text](demo/version1.5.0/4-presets-session-v1.5.0.png "My Meditation Time")
 
 >La fenêtre d'indication du niveau.
 
-![alt text](demo/version1.5.0/5-level-dark-v1.5.0.jpg "My Meditation Time")
+![alt text](demo/version1.5.0/5-level-dark.jpg "My Meditation Time")
 
 ## Pourquoi ?
 
