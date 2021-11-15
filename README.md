@@ -82,7 +82,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
   - [Partagez l'application avec vos ami(e)s](#partagez-lapplication-avec-vos-amies)
 
-  - [La section enfants](#)
+  - [La section enfants](#la-section-enfants)
 
 [Désinstaller l'application](#désinstaller-lapplication)
 
