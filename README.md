@@ -327,7 +327,7 @@ Ce message vous invite à installer l'application.
 **:heavy_exclamation_mark: Auto détection du mode sombre : (sur mobile)**
 
 >Si votre téléphone est en mode sombre, le mode sombre de l'application sera par défaut!
->Sur ordinateur, vous avez un bouton pour changer manuellement de mode.
+>Sur ordinateur, vous avez un bouton pour changer manuellement de mode (l'option n'est pas encore totalement fonctionnelle sur ordi. Je privilègie les téléphones portables en priorité).
 
 ### le mode sombre :
 
