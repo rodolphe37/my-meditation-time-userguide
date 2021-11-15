@@ -13,7 +13,7 @@
 
 ---
 
-## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/logo-app3.svg" alt="drawing" height="60" width="60"/>My Meditation Time_V1.4.0
+## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/logo-app3.svg" alt="drawing" height="60" width="60"/>My Meditation Time_V1.5.0
 
 
 
@@ -66,6 +66,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Fonctionnalités](#fonctionnalités)
 
+  - [Mode sombre et mode clair](#mode-sombre-et-mode-clair)
+
   - [Pourquoi ?](#pourquoi-)
 
   - [Comment ?](#comment-)
@@ -79,6 +81,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
   - [Supprimer l'historique](#supprimer-lhistorique)
 
   - [Partagez l'application avec vos ami(e)s](#partagez-lapplication-avec-vos-amies)
+
+  - [La section enfants](#)
 
 [Désinstaller l'application](#désinstaller-lapplication)
 
@@ -318,13 +322,46 @@ Ce message vous invite à installer l'application.
 
 # Fonctionnalités
 
+## Mode sombre et mode clair.
+
+**:heavy_exclamation_mark: Auto détection du mode sombre : (sur mobile)**
+
+>Si votre téléphone est en mode sombre, le mode sombre de l'application sera par défaut!
+>Sur ordinateur, vous avez un bouton pour changer manuellement de mode.
+
+### le mode sombre :
+
+>L'accueil de l'app.
+
+![alt text](demo/version1.5.0/1-home-v1.5.0.png "My Meditation Time")
+
+>La section "Pourquoi?".
+
+![alt text](demo/version1.5.0/3-why-v1.5.0.png "My Meditation Time")
+
+>La section "Comment?".
+
+![alt text](demo/version1.5.0/2-how-v1.5.0.png "My Meditation Time")
+
+>Les sections "Presets" & "Session.
+
+![alt text](demo/version1.5.0/presets-session-v1.5.0.png "My Meditation Time")
+
+>La fenêtre d'indication du niveau.
+
+![alt text](demo/version1.5.0/5-level-dark-v1.5.0.jpg "My Meditation Time")
+
 ## Pourquoi ?
 
 **:heavy_exclamation_mark: Dans cette section vous trouverez quelques bienfaits de la méditation:**
 
 >13 bienfaits sont enumérés, afin de mieux comprendre ce que fait la méditation sur le corps et l'esprit.
 
-![alt text](demo/why.jpg "My Meditation Time")
+![alt text](demo/version1.5.0/why.jpg "My Meditation Time")
+
+>Chaque bienfait est accompagné d'un texte détaillé.
+
+![alt text](demo/version1.5.0/why2.jpg "My Meditation Time")
 
 ---
 
@@ -334,7 +371,11 @@ Ce message vous invite à installer l'application.
 
 >8 conseils pratiques sont présentés ici, afin de vous faciliter la pratique au quotidien.
 
-![alt text](demo/how.jpg "My Meditation Time")
+![alt text](demo/version1.5.0/how.jpg "My Meditation Time")
+
+>Vous avez accès à des conseils ou exercices complets.
+
+![alt text](demo/version1.5.0/how2.jpg "My Meditation Time")
 
 ---
 
@@ -417,6 +458,40 @@ Ce message vous invite à installer l'application.
 
 > Cela fera apparaître un QrCode, qu'il suffit de scanner pour se rendre à l'adresse de l'application web.
 
+## La section enfants.
+
+>Cette section propose des méditations guidées pour enfants sous forme de média youtube embarqués dans l'application.
+Chaque média à été vérifié avec attention avant d'être intègré, ils conviennent parfaitement pour un usage avec un enfant.
+
+## A quoi ressemble cette section?
+
+>Comment y accèder?
+
+![alt text](demo/version1.5.0/child-section/1-child-home-v1.5.0.png  "My Meditation Time")
+
+>Une fenêtre vous informe que contrairement au rest de l'app, qui est totalement accessible hors-ligne (mode avion par exemple), cette section ncessite une connexion.
+cela est dû au fait que les média sont sur youtube, contrairement à tous les autres médias de l'app.
+
+![alt text](demo/version1.5.0/child-section/2-child-alert1-v1.5.0.png  "My Meditation Time")
+
+>Ensuite, une autre fenêtre vous indique que vous entrez dans la section "Pour les petits".
+
+![alt text](demo/version1.5.0/child-section/3-child-alert2-v1.5.0.png  "My Meditation Time")
+
+>L'accueil de la section!
+Elle fonctionne sur le principe des Thèmes, chaque thème a une liste de médias qui lui est propre.
+
+![alt text](demo/version1.5.0/child-section/4-child-first-v1.5.0.png  "My Meditation Time")
+
+>Par exemple, le thème de l'apprentissage de la méditation!
+Elle regroupe plusieurs médias specialement conçu pour sensibiliser les tout-petits à l'art de la méditation.
+
+![alt text](demo/version1.5.0/child-section/6-child-list-v1.5.0.png  "My Meditation Time")
+
+>Pour sortir de la section, c'est le même bouton que pour entrer.
+cela vous redirige automatiquement vers l'acceuil de l'application normale
+
+![alt text](demo/version1.5.0/child-section/7-child-exit-v1.5.0.png  "My Meditation Time")
 
 ---
 
