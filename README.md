@@ -64,7 +64,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
     - [Expert](#expert)
 
-  - [Badge d'assiduité](#)
+  - [Badge d'assiduité](#badge-dassiduité)
 
 [Fonctionnalités](#fonctionnalités)
 
