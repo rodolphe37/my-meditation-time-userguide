@@ -328,7 +328,7 @@ Ce message vous invite à installer l'application.
 >
 >Si vous ne maintenez pas une certaine régularité, le badge disparaîtra!
 
-*** Message à votre accueil sur l'app.***
+***Message à votre accueil sur l'app.***
 ![badge](demo/assiduite/1.jpg "My Meditation Time")
 
 ***Bage d'assiduité présent***
