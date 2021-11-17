@@ -324,7 +324,7 @@ Ce message vous invite à installer l'application.
 
 ## Badge d'assiduité:
 
->Si vous faite des session régulièrement, un badge validant votre assiduité apparaît.
+>Si vous faites des sessions régulièrement, un badge validant votre assiduité apparaît.
 >
 >Si vous ne maintenez pas une certaine régularité, le badge disparaîtra!
 
