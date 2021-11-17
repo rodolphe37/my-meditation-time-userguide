@@ -64,6 +64,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
     - [Expert](#expert)
 
+  - [Badge d'assiduité](#)
+
 [Fonctionnalités](#fonctionnalités)
 
   - [Mode sombre et mode clair](#mode-sombre-et-mode-clair)
@@ -317,6 +319,23 @@ Ce message vous invite à installer l'application.
 
 >***:heavy_exclamation_mark: Toutes ces mélodies ont des vertus pour le corps et l'esprit (chaque vertu est affichée dans une bulle d'information lorsque vous cliquez sur un son)***
 
+
+---
+
+## Badge d'assiduité:
+
+>Si vous faite des session régulièrement, un badge validant votre assiduité apparaît.
+>
+>Si vous ne maintenez pas une certaine régularité, le badge disparaîtra!
+
+*** Message à votre accueil sur l'app.***
+![badge](demo/assiduite/1.jpg "My Meditation Time")
+
+***Bage d'assiduité présent***
+![badge](demo/assiduite/2.jpg)
+
+***Si vous cliquez sur le badge!***
+![badge](demo/assiduite/3.jpg)
 
 ---
 
