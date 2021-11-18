@@ -65,6 +65,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
     - [Expert](#expert)
 
   - [Badge d'assiduité](#badge-dassiduité)
+  - [Badge de curiosité auditive](#badge-de-curiosité-auditive)
 
 [Fonctionnalités](#fonctionnalités)
 
@@ -336,6 +337,21 @@ Ce message vous invite à installer l'application.
 
 ***Si vous cliquez sur le badge!***
 ![badge](demo/assiduite/3.jpg)
+
+---
+
+## Badge de curiosité auditive:
+
+>Si vous faites au moins 50% de vos session avec du son d'ambiance, ce badge apparaît.
+>
+>Si vous descendez en dessous de cette limite, le badge disparaîtra!
+
+
+***Bage de curiosité présent***
+![badge](demo/curiosite/badge.jpg)
+
+***Si vous cliquez sur le badge!***
+![badge](demo/curiosite/message.jpg)
 
 ---
 
