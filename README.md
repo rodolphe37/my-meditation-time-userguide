@@ -459,7 +459,7 @@ Ce message vous invite à installer l'application.
 
 >***:heavy_exclamation_mark:Lorsque vous validez un chiffre, un retentissement de bol tibétain (deux retentissements pour le mode automatique - si vous choisissez un temps défini dans la section presets) se fait entendre, cela signifie que l'app est prête pour votre séance.***
 
->Cliquez sur le petit icon blue "I" pour savoir comment utiliser cet outils
+>Cliquez sur la petit icone bleu "I" pour savoir comment utiliser cet outils
 
 ![alt text](demo/newTimePicker/timePicker.png "My Meditation Time")
 
