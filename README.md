@@ -66,6 +66,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
   - [Badge d'assiduité](#badge-dassiduité)
   - [Badge de curiosité auditive](#badge-de-curiosité-auditive)
+  - [Badge de qualité d'apprentissage](#badge-de-qualité-dapprentissage)
 
 [Fonctionnalités](#fonctionnalités)
 
@@ -355,6 +356,21 @@ Ce message vous invite à installer l'application.
 
 ---
 
+## Badge de qualité d'apprentissage:
+
+>Si vous lisez au moins 6 conseils complets qui figure dans la section "Comment ?", ce badge apparaît.
+>**Attention, ils ne suffit pas de consulter la section, il faut lire les articles présent lorsque l'on clique sur le bouton "voir les conseils" !!
+
+
+
+***Bage de qualité d'apprentissage présent***
+![badge](demo/goodPractice/1.png)
+
+***Si vous cliquez sur le badge!***
+![badge](demo/goodPractice/2.png)
+
+---
+
 # Fonctionnalités
 
 ## Mode sombre et mode clair.
@@ -441,13 +457,15 @@ Ce message vous invite à installer l'application.
 
 >Vous pouvez directement entrer la durée perso que vous souhaitez, vous n'aurez pas de possibilité de définir un son par ce biais.
 
->***:heavy_exclamation_mark:Lorsque vous entrez un chiffre, un retentissement de bol tibétain se fait entendre, cela signifie que l'app est prête pour votre séance.***
+>***:heavy_exclamation_mark:Lorsque vous validez un chiffre, un retentissement de bol tibétain (deux retentissements pour le mode automatique - si vous choisissez un temps défini dans la section presets) se fait entendre, cela signifie que l'app est prête pour votre séance.***
 
-![alt text](demo/new/first-session.jpg "My Meditation Time")
+>Cliquez sur le petit icon blue "I" pour savoir comment utiliser cet outils
+
+![alt text](demo/newTimePicker/timePicker.png "My Meditation Time")
 
 >Si vous souhaitez définir un son, passez par la section préréglages, ne selectionnez que le son, pas de durée, puis cliquez sur le bouton "Aller au miniteur". Vous pourrez définir la durée que vous souhaitez ensuite (12 mins dans cet exemple).
 
-![alt text](demo/new/session1.jpg "My Meditation Time")
+![alt text](demo/newTimePicker/timePicker.gif "My Meditation Time")
 
 >Ainsi, lorsque vous démarrez le timer, vous aurez une durée et un son affiché sur votre écran ("12 mins" et j'ai choisi, au préalable,"forêt" dans cet exemple).
 
