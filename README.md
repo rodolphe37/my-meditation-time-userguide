@@ -359,7 +359,7 @@ Ce message vous invite à installer l'application.
 ## Badge de qualité d'apprentissage:
 
 >Si vous lisez au moins 6 conseils complets qui figure dans la section "Comment ?", ce badge apparaît.
->**Attention, ils ne suffit pas de consulter la section, il faut lire les articles présent lorsque l'on clique sur le bouton "voir les conseils" !!
+>**Attention, ils ne suffit pas de consulter la section, il faut lire les articles présent lorsque l'on clique sur le bouton "voir les conseils" !!**
 
 
 
