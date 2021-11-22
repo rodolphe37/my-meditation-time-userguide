@@ -92,7 +92,7 @@ A simple and intuitive meditation initiation and practice application for adults
 # :computer: online site
 
 
-**You can use the My Meditation Time application for FREE** **[HERE](https://my-meditation-time-us-version.netlify.app/)**,
+**You can use the My Meditation Time application for FREE** **[HERE](https://my-meditation-time.us/)**,
 
 ---
 

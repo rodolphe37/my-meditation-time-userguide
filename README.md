@@ -151,7 +151,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 **:heavy_check_mark: Vous pouvez installer simplement l'application sur tous téléphones portables Android ou ordinateurs Windows, Mac ou Linux.**
 
->rendez vous à cette adresse pour suivre la procédure d'installation : ***[ICI](https://my-meditation-time.netlify.app/)***
+>rendez vous à cette adresse pour suivre la procédure d'installation : ***[ICI](https://my-meditation-time.fr/)***
 
 ## Sur Mobiles (Android).
 
