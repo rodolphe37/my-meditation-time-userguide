@@ -70,6 +70,8 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Fonctionnalités](#fonctionnalités)
 
+  - [Mode Hors-ligne](#mode-hors-ligne)
+
   - [Mode sombre et mode clair](#mode-sombre-et-mode-clair)
 
   - [Pourquoi ?](#pourquoi-)
@@ -372,6 +374,32 @@ Ce message vous invite à installer l'application.
 ---
 
 # Fonctionnalités
+
+## Mode hors-ligne.
+
+**:heavy_exclamation_mark: L'application fonctionne sans connexion.**
+
+>Si vous souhaitez ne pas être dérangé durant votre session, vous pouvez passer votre téléphone en mode avion, l'application fonctionne sans problème. (à l'exception de la section enfants, qui elle, necessite une connexion obligatoirement)
+
+
+### indication de force de votre connexion :
+
+>EN cliquant sur l'icone du signal (en haut à doite), vous avez accès à une fenêtre avec quelques explications.
+
+![alt text](demo/hors-ligne/1.jpg "My Meditation Time")
+
+>Passez votre téléphone en mode avion.
+
+![alt text](demo/hors-ligne/2.jpg "My Meditation Time")
+
+>Indication du mode hors-ligne activé.
+
+![alt text](demo/hors-ligne/3.jpg "My Meditation Time")
+
+>L'appli fonctionne parfaitement.
+
+![alt text](demo/hors-ligne/4.jpg "My Meditation Time")
+
 
 ## Mode sombre et mode clair.
 
