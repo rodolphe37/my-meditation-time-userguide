@@ -70,6 +70,10 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 
 [Fonctionnalités](#fonctionnalités)
 
+  - [Personnalisation du logo](#personnalisation-du-logo)
+
+  - [Votre profil](#votre-profil)
+
   - [Mode Hors-ligne](#mode-hors-ligne)
 
   - [Mode sombre et mode clair](#mode-sombre-et-mode-clair)
@@ -375,6 +379,61 @@ Ce message vous invite à installer l'application.
 
 # Fonctionnalités
 
+## Personnalisation du logo.
+
+**:heavy_exclamation_mark: Vous avez un choix entre plus d'une dizaine de logo.**
+
+>Vous pouvez changer de logo comme bon vous semble, au grès de vos humeurs.
+
+![alt text](demo/logoChoice/logo.jpg "My Meditation Time")
+
+### Comment ça fonctionne ?
+
+>En cliquant sur la roue crantée, dans le coin supérieur gauche du logo...
+cette modal s'ouvre !
+
+![alt text](demo/logoChoice/modal.jpg "My Meditation Time")
+
+>Choisissez un logo dans la liste déroulante.
+
+![alt text](demo/logoChoice/choice.jpg "My Meditation Time")
+
+>Lorsque vous validez, un message apparaît et l'appli redémarre
+
+![alt text](demo/logoChoice/transition.png "My Meditation Time")
+
+>Une fois redémarré, le logo choisi est appliqué
+
+![alt text](demo/logoChoice/logo-finish.jpg "My Meditation Time")
+
+--
+
+
+## Votre profil.
+
+**:heavy_exclamation_mark: Vous avez un profil avec vos statistiques.**
+
+>Vous avez un profil qui contient toutes vos stats, ou vous pouvez ajouter une photo.
+
+![alt text](demo/profil/profil-start.jpg "My Meditation Time")
+
+### Options du profil
+
+>Vous avez un outils d'importation d'image, de compression à la volée, de recadrage et enfin, d'ajout de filtres.
+
+![alt text](demo/profil/profil-tools.png "My Meditation Time")
+
+>L'option de partage.
+
+![alt text](demo/profil/share.jpg "My Meditation Time")
+
+>L'option d'invitation.
+
+![alt text](demo/profil/invite.jpg "My Meditation Time")
+
+--
+
+
 ## Mode hors-ligne.
 
 **:heavy_exclamation_mark: L'application fonctionne sans connexion.**
@@ -499,6 +558,28 @@ Ce message vous invite à installer l'application.
 
 ![alt text](demo/new/session2.jpg "My Meditation Time")
 
+### Les options:
+
+***Vous avez deux possibilités***
+
+>**Avec le timer par défaut, le temps est représenté en pourcentage de session, de 0% à 100%**
+
+![alt text](demo/counter/time.jpg "My Meditation Time")
+
+***La deuxième possibilité***
+
+>**le timer est cette fois représenté en compte à rebours, du temps choisi à 0 seconde.**
+
+>Pour cette option, la couleur du cercle de progression change au fur et à mesure que le temps diminue !
+
+![alt text](demo/counter/time-chrono.jpg "My Meditation Time")
+- quand le temps est au dessus de 35 sec.
+
+![alt text](demo/counter/timer-chrono2.jpg "My Meditation Time")
+- quand le temps est entre 34 et 16 sec.
+
+![alt text](demo/counter/timer-chrono3.jpg "My Meditation Time")
+- quand le temps est en dessous de 15 sec.
 
 >***:heavy_exclamation_mark: Lorsque le timer s'arrête, de nouveau un retentissement de bol tibétain se fait entendre, cela signifie que c'est la fin de votre session.***
 
