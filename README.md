@@ -119,7 +119,7 @@ Une Application d'initiation et de pratique de la méditation simple et intuitiv
 # :computer: Application en ligne
 
 
-**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.netlify.app/)**,
+**Vous pouvez utiliser l'application My Meditation Time GRATUITEMENT** **[ICI](https://my-meditation-time.fr/)**,
 
 ---
 
