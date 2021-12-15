@@ -381,7 +381,7 @@ Ce message vous invite à installer l'application.
 
 ## Personnalisation du logo.
 
-**:heavy_exclamation_mark: Vous avez un choix entre plus d'une dizaine de logo.**
+**:heavy_exclamation_mark: Vous avez un choix entre plus d'une trentaine de logo.**
 
 >Vous pouvez changer de logo comme bon vous semble, au grès de vos humeurs.
 
